@@ -1,0 +1,4191 @@
+export const songs = [
+  {
+    "id": "1",
+    "title": "Amaro Porano Jaha Chay - Arijit Singh",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Bangla/(28)%20Amaro%20Porano%20Jaha%20Chay%20-%20Arijit%20Singh%20-%20YouTube.MP3"
+  },
+  {
+    "id": "2",
+    "title": "Mayabee -Blue Touch",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Bangla/(28)%20Mayabee%20(%E0%A6%AE%E0%A6%BE%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A7%80)-Blue%20Touch%20(Official%20Music%20Video)%20-%20YouTube.MP3"
+  },
+  {
+    "id": "3",
+    "title": "উপ",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Bangla/(28)%20%E0%A6%89%E0%A6%AA%20__%20Upo%20__%20Cover%20__%20Hatirpool%20session%20__%20Angel%20Noor%20-%20YouTube.MP3"
+  },
+  {
+    "id": "4",
+    "title": "Dokhino Hawa",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Bangla/(36)%20Dokhino%20Hawa%20_%20Coke%20Studio%20Bangla%20_%20Season%20One%20_%20Tahsan%20X%20Madhubanti%20-%20YouTube.mp3"
+  },
+  {
+    "id": "5",
+    "title": "Pajorer Bhanga Hawa",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Bangla/(93)%20Pajorer%20Bhanga%20Hawa%20__%20Tahsan%20__%20Mosharraf%20Karim%20__%20Tasnia%20Farin%20_%20Bangla%20New%20Song%202020%20_%20G%20Series%20-%20YouTube.MP3"
+  },
+  {
+    "id": "6",
+    "title": "Amar Dehokhan - Odd Signature",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Bangla/Amar%20Dehokhan%20-%20Odd%20Signature%20(Official)%20-%20YouTube.MP3"
+  },
+  {
+    "id": "7",
+    "title": "LEVEL FIVE - 60's LOVE",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Bangla/LEVEL%20FIVE%20-%2060's%20LOVE%20-%20YouTube.MP3"
+  },
+  {
+    "id": "8",
+    "title": "Mayabono Biharini from BEDROOM by Somlata",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Bangla/Mayabono%20Biharini%20from%20BEDROOM%20by%20Somlata%20%5B1aGwOBgyWTo%5D.mp3"
+  },
+  {
+    "id": "9",
+    "title": "Obosthan  - Train Poka - HIGHWAY - Debut Track",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Bangla/Obosthan%20(%E0%A6%85%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8)%20-%20Train%20Poka%20-%20HIGHWAY%20-%20Debut%20Track-vZ5Dfc1N17M.mp3"
+  },
+  {
+    "id": "10",
+    "title": "Oniket Prantor",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Bangla/Oniket%20Prantor%20__%20%E0%A6%85%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%A4%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%20__%20Artcell%20__%20Bangla%20New%20Band%20Song%20__%20Official%20Lyrical%20Video%20-%20YouTube.MP3"
+  },
+  {
+    "id": "11",
+    "title": "Popeye  - Bishonno Shundor  Official Lyrics Video",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Bangla/Popeye%20(Bangladesh)%20-%20Bishonno%20Shundor%20(%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A6%A3%E0%A7%8D%E0%A6%A3%20%E0%A6%B8%E0%A7%81%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%B0)%20Official%20Lyrics%20Video%20-%20YouTube.MP3"
+  },
+  {
+    "id": "12",
+    "title": "Shakkhi by highway lyrics video -Jdx2NXHF",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Bangla/Shakkhi%20by%20highway%20lyrics%20video%20(%E0%A6%B8%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%20%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%93%E0%A7%9F%E0%A7%87)-Jdx2NXHF_Io.mp3"
+  },
+  {
+    "id": "13",
+    "title": "Tomake Alo vebe by Artcell",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Bangla/Tomake%20Alo%20vebe%20by%20Artcell%20-271885541-.mp3"
+  },
+  {
+    "id": "14",
+    "title": "Tomar Jonno Nilche Tara",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Bangla/Tomar%20Jonno%20Nilche%20Tara-Arnob%5BLyrics%5D-MhCxKETP_Z8.mp3"
+  },
+  {
+    "id": "15",
+    "title": "কেন এই নিঃস্বঙ্গতা - সোল্‌স। Keno Ei Nishongota - Souls",
+    "artist": "Bangla",
+    "album": "Bangla",
+    "genre": "Bangla",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Bangla/%E0%A6%95%E0%A7%87%E0%A6%A8%20%E0%A6%8F%E0%A6%87%20%E0%A6%A8%E0%A6%BF%E0%A6%83%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%A4%E0%A6%BE%20-%20%E0%A6%B8%E0%A7%8B%E0%A6%B2%E0%A7%8D%E2%80%8C%E0%A6%B8%E0%A5%A4%20Keno%20Ei%20Nishongota%20-%20Souls%20_%20Lyric%20Video-ojhGlFY6iAk.mp3"
+  },
+  {
+    "id": "16",
+    "title": "Raising",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Bullet%20from%20my%20valentines/-Raising_Hell-(256kbps).mp3"
+  },
+  {
+    "id": "17",
+    "title": "Bullet For My Valentine - No More Tears To Cry",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet%20For%20My%20Valentine%20-%20No%20More%20Tears%20To%20Cry%20%5BawX198gz4xk%5D.mp3"
+  },
+  {
+    "id": "18",
+    "title": "Bullet For My Valentine - Stitches",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet%20For%20My%20Valentine%20-%20Stitches%20(Visualiser)%20%5BpGh_t256kDM%5D.mp3"
+  },
+  {
+    "id": "19",
+    "title": "Bullet For My Valentine - Waking The Demon",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet%20For%20My%20Valentine%20-%20Waking%20The%20Demon%20(Official%20Video)%20%5Bq2I0ulTZWXA%5D.mp3"
+  },
+  {
+    "id": "20",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Bittersweet_Memories_(Official_Video)(128kbps).mp3"
+  },
+  {
+    "id": "21",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Breaking_Point_(Live)(256kbps).mp3"
+  },
+  {
+    "id": "22",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Crawling_(Audio)(256kbps).mp3"
+  },
+  {
+    "id": "23",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Hand_Of_Blood_(Official_Music_Video)(256kbps).mp3"
+  },
+  {
+    "id": "24",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Hearts_Burst_Into_Fire_(Official_Music_Video)(256kbps).mp3"
+  },
+  {
+    "id": "25",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Letting_You_Go(256kbps).mp3"
+  },
+  {
+    "id": "26",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_No_Way_Out_(Official_Lyric_Video)(256kbps).mp3"
+  },
+  {
+    "id": "27",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Not_Dead_Yet(256kbps).mp3"
+  },
+  {
+    "id": "28",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Over_It(256kbps).mp3"
+  },
+  {
+    "id": "29",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_P.O.W.(256kbps).mp3"
+  },
+  {
+    "id": "30",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Riot_(Official_Music_Video)(256kbps).mp3"
+  },
+  {
+    "id": "31",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Scream_Aim_Fire_(Official_Video)(256kbps).mp3"
+  },
+  {
+    "id": "32",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Suffocating_Under_Words_Of_Sorrow_(What_Can_I_Do)_(Official_Video)(256kbps).mp3"
+  },
+  {
+    "id": "33",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Tears_Don_t_Fall__Album_Edit_-_with_Scream___with_Lighter_(256kbps).mp3"
+  },
+  {
+    "id": "34",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Temper_Temper(256kbps).mp3"
+  },
+  {
+    "id": "35",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_The_Last_Fight(256kbps).mp3"
+  },
+  {
+    "id": "36",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_You_Want_a_Battle-_(Here's_a_War)(256kbps).mp3"
+  },
+  {
+    "id": "37",
+    "title": "Bullet",
+    "artist": "Bullet For My Valentine",
+    "album": "Bullet For My Valentine",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Bullet%20from%20my%20valentines/Bullet_For_My_Valentine_-_Your_Betrayal_(Official_Video)(256kbps).mp3"
+  },
+  {
+    "id": "38",
+    "title": "Apocalypse - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Cigarette%20after%20sex/Apocalypse%20-%20Cigarettes%20After%20Sex.mp3"
+  },
+  {
+    "id": "39",
+    "title": "Cigarettes After Sex - Cry",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Cigarette%20after%20sex/Cigarettes%20After%20Sex%20-%20Cry%20(Acoustic%20Cover)%20-%20YouTube.mp3"
+  },
+  {
+    "id": "40",
+    "title": "Crush - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Cigarette%20after%20sex/Crush%20-%20Cigarettes%20After%20Sex%20-%20YouTube.MP3"
+  },
+  {
+    "id": "41",
+    "title": "Cry - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Cigarette%20after%20sex/Cry%20-%20Cigarettes%20After%20Sex%20-3XqqkrJENB4-.mp3"
+  },
+  {
+    "id": "42",
+    "title": "Each Time You Fall In Love - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Cigarette%20after%20sex/Each%20Time%20You%20Fall%20In%20Love%20-%20Cigarettes%20After%20Sex.mp3"
+  },
+  {
+    "id": "43",
+    "title": "Falling In Love - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Cigarette%20after%20sex/Falling%20In%20Love%20-%20Cigarettes%20After%20Sex.mp3"
+  },
+  {
+    "id": "44",
+    "title": "Flash - Cigarettes After Sex-nrWC",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Cigarette%20after%20sex/Flash%20-%20Cigarettes%20After%20Sex-nrWC_z6l13w.mp3"
+  },
+  {
+    "id": "45",
+    "title": "John Wayne - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Cigarette%20after%20sex/John%20Wayne%20-%20Cigarettes%20After%20Sex.mp3"
+  },
+  {
+    "id": "46",
+    "title": "K. - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Cigarette%20after%20sex/K.%20-%20Cigarettes%20After%20Sex%20-%20YouTube.MP3"
+  },
+  {
+    "id": "47",
+    "title": "Keep On Loving You - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Cigarette%20after%20sex/Keep%20On%20Loving%20You%20-%20Cigarettes%20After%20Sex%20%5BPDJPpG8e4n4%5D.mp3"
+  },
+  {
+    "id": "48",
+    "title": "Opera House - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Cigarette%20after%20sex/Opera%20House%20-%20Cigarettes%20After%20Sex.mp3"
+  },
+  {
+    "id": "49",
+    "title": "Pistol - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Cigarette%20after%20sex/Pistol%20-%20Cigarettes%20After%20Sex%20%5BrrXobXg73ec%5D.mp3"
+  },
+  {
+    "id": "50",
+    "title": "Stop Waiting - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Cigarette%20after%20sex/Stop%20Waiting%20-%20Cigarettes%20After%20Sex%20%5B8XjYw8Wuv6Q%5D.mp3"
+  },
+  {
+    "id": "51",
+    "title": "Sunsetz - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Cigarette%20after%20sex/Sunsetz%20-%20Cigarettes%20After%20Sex.mp3"
+  },
+  {
+    "id": "52",
+    "title": "Sweet - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Cigarette%20after%20sex/Sweet%20-%20Cigarettes%20After%20Sex.mp3"
+  },
+  {
+    "id": "53",
+    "title": "Truly - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Cigarette%20after%20sex/Truly%20-%20Cigarettes%20After%20Sex.mp3"
+  },
+  {
+    "id": "54",
+    "title": "You're All I Want - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Cigarette%20after%20sex/You're%20All%20I%20Want%20-%20Cigarettes%20After%20Sex.mp3"
+  },
+  {
+    "id": "55",
+    "title": "Young & Dumb - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Cigarette%20after%20sex/Young%20%26%20Dumb%20-%20Cigarettes%20After%20Sex.mp3"
+  },
+  {
+    "id": "56",
+    "title": "hours) Heavenly - Cigarettes After Sex",
+    "artist": "Cigarettes After Sex",
+    "album": "Cigarettes After Sex",
+    "genre": "Dream Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Cigarette%20after%20sex/hours)%20Heavenly%20-%20Cigarettes%20After%20Sex%20-%20YouTube.mp3"
+  },
+  {
+    "id": "57",
+    "title": "The Midnight - Los Angeles",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/(12)%20The%20Midnight%20-%20Los%20Angeles%20-%20YouTube.MP3"
+  },
+  {
+    "id": "58",
+    "title": "Spider-Man 2  Vindicated-Dashboard Confessional",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/(24)%20Spider-Man%202%20(Soundtrack%20Film%20Of%202004)%20Vindicated-Dashboard%20Confessional%20-%20YouTube.MP3"
+  },
+  {
+    "id": "59",
+    "title": "Russ ~ Nobody Knows",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/(30)%20Russ%20~%20Nobody%20Knows%20(Lyrics)%20-%20YouTube.MP3"
+  },
+  {
+    "id": "60",
+    "title": "Coldplay - The Scientist",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/(34)%20Coldplay%20-%20The%20Scientist%20(Official%204K%20Video)%20-%20YouTube.MP3"
+  },
+  {
+    "id": "61",
+    "title": "Eddie Vedder - Long Nights  HD",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/(81)%20Eddie%20Vedder%20-%20Long%20Nights%20(with%20Lyrics)%20HD%20-%20YouTube.mp3"
+  },
+  {
+    "id": "62",
+    "title": "3 Doors Down - Here Without You",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/3%20Doors%20Down%20-%20Here%20Without%20You%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "63",
+    "title": "A Star is Born - Shallow Sing-Along  - Netflix",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/A%20Star%20is%20Born%20-%20Shallow%20Sing-Along%20(Lady%20Gaga%20%26%20Bradley%20Cooper)%20-%20Netflix.mp3"
+  },
+  {
+    "id": "64",
+    "title": "ARMOR -",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/ARMOR%20-%20(Landon%20Austin)%20-%20Official%20Music%20Video.mp3"
+  },
+  {
+    "id": "65",
+    "title": "Ace of Base - Happy Nation",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Ace%20of%20Base%20-%20Happy%20Nation%20(Official%20Music%20Video)%20%5BHWjCStB6k4o%5D.mp3"
+  },
+  {
+    "id": "66",
+    "title": "Addict. - Hold Me Closer  feat. yaeow",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Addict.%20-%20Hold%20Me%20Closer%20(Official%20Lyric%20Video)%20feat.%20yaeow%20-%20YouTube.MP3"
+  },
+  {
+    "id": "67",
+    "title": "Aerosmith - Dream on",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Aerosmith%20-%20Dream%20on-%20Lyrics-L9srmft6STc.mp3"
+  },
+  {
+    "id": "68",
+    "title": "Against The Current - Paralyzed",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Against%20The%20Current%20-%20Paralyzed%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "69",
+    "title": "Akcent - My Passion",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Akcent%20-%20My%20Passion%20(Official%20Video).mp3"
+  },
+  {
+    "id": "70",
+    "title": "Alec Benjamin - Let Me Down Slowly",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Alec%20Benjamin%20-%20Let%20Me%20Down%20Slowly%20%5BOfficial%20Music%20Video%5D.mp3"
+  },
+  {
+    "id": "71",
+    "title": "Alec Benjamin - Mind Is A Prison",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Alec%20Benjamin%20-%20Mind%20Is%20A%20Prison%20%5BOfficial%20Lyric%20Video%5D.mp3"
+  },
+  {
+    "id": "72",
+    "title": "Anne-Marie & Niall Horan - Our Song",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Anne-Marie%20%26%20Niall%20Horan%20-%20Our%20Song%20%5BOfficial%20Video%5D.mp3"
+  },
+  {
+    "id": "73",
+    "title": "Annie's Song - John Denver",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Annie's%20Song%20-%20John%20Denver%20(Cover%20by%20Farhat%20Tarannum).mp3"
+  },
+  {
+    "id": "74",
+    "title": "Another",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Another_love.mp3"
+  },
+  {
+    "id": "75",
+    "title": "Arash - Broken Angel",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Arash%20-%20Broken%20Angel.mp3"
+  },
+  {
+    "id": "76",
+    "title": "Arash - Pure Love",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Arash%20-%20Pure%20Love.mp3"
+  },
+  {
+    "id": "77",
+    "title": "Astrid S - It´s Ok If You Forget Me",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Astrid%20S%20-%20It%C2%B4s%20Ok%20If%20You%20Forget%20Me%20(Official%20Lyric%20Video).mp3"
+  },
+  {
+    "id": "78",
+    "title": "Ava Max - Call Me Tonight",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Ava%20Max%20-%20Call%20Me%20Tonight%20(Music%20Video).mp3"
+  },
+  {
+    "id": "79",
+    "title": "Ava Max - Into Your Arms x Alone, Pt. II",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Ava%20Max%20-%20Into%20Your%20Arms%20x%20Alone%2C%20Pt.%20II%20(Music%20Video).mp3"
+  },
+  {
+    "id": "80",
+    "title": "Ava",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Ava_Max_-_Sweet_but_Psycho_-Official_Music_Video-(128kbps).mp3"
+  },
+  {
+    "id": "81",
+    "title": "BTS  'IDOL' - Sam Tsui, Megan Lee, KHS Cover",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/BTS%20(%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8)%20'IDOL'%20-%20Sam%20Tsui%2C%20Megan%20Lee%2C%20KHS%20Cover.mp3"
+  },
+  {
+    "id": "82",
+    "title": "BTS  - Fake Love - Sam Tsui, Megan Lee, KHS Cover",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/BTS%20(%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8)%20-%20Fake%20Love%20-%20Sam%20Tsui%2C%20Megan%20Lee%2C%20KHS%20Cover.mp3"
+  },
+  {
+    "id": "83",
+    "title": "Backstreet Boys - Drowning",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Backstreet%20Boys%20-%20Drowning.mp3"
+  },
+  {
+    "id": "84",
+    "title": "Backstreet Boys - Show Me The Meaning Of Being Lonely",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Backstreet%20Boys%20-%20Show%20Me%20The%20Meaning%20Of%20Being%20Lonely.mp3"
+  },
+  {
+    "id": "85",
+    "title": "Billie",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Billie_Eilish%2C_Khalid_-_lovely(128kbps).mp3"
+  },
+  {
+    "id": "86",
+    "title": "Bon Jovi - It's My Life",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Bon%20Jovi%20-%20It's%20My%20Life%20(Official%20Music%20Video)-vx2u5uUu3DE.mp3"
+  },
+  {
+    "id": "87",
+    "title": "C ARMA - YAPMA",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/C%20ARMA%20-%20YAPMA%20(Official%20HD%20Video).mp3"
+  },
+  {
+    "id": "88",
+    "title": "CHAMPIONS - KHS & Andie Case",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/CHAMPIONS%20-%20KHS%20%26%20Andie%20Case.mp3"
+  },
+  {
+    "id": "89",
+    "title": "Cara Delevingne - Heathens  feat. Kaan Pars & BeatItPunk",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Cara%20Delevingne%20-%20Heathens%20(Slap%20House)%20ft.%20Kaan%20Pars%20%26%20BeatItPunk.mp3"
+  },
+  {
+    "id": "90",
+    "title": "Chris Thrace - Sing Loud",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Chris%20Thrace%20-%20Sing%20Loud%20(feat.%20KATE%20LINN).mp3"
+  },
+  {
+    "id": "91",
+    "title": "Clean Bandit - Rockabye",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Clean%20Bandit%20-%20Rockabye%20(feat.%20Sean%20Paul%20%26%20Anne-Marie)%20%5BOfficial%20Video%5D.mp3"
+  },
+  {
+    "id": "92",
+    "title": "Connor Price - When You're Gone",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Connor%20Price%20-%20When%20You're%20Gone%20(feat.%20Brea%20Price)%20%5BMusic%20Video%5D.mp3"
+  },
+  {
+    "id": "93",
+    "title": "Cover “I don’t wanna be you anymore” Elle Bambridge",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Cover%20%E2%80%9CI%20don%E2%80%99t%20wanna%20be%20you%20anymore%E2%80%9D%20Elle%20Bambridge%20-%20YouTube.mp3"
+  },
+  {
+    "id": "94",
+    "title": "DEV - Naked  feat. Enrique Iglesias",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/DEV%20-%20Naked%20(Official%20Music%20Video)%20ft.%20Enrique%20Iglesias.mp3"
+  },
+  {
+    "id": "95",
+    "title": "Damien Rice – I Don’t Want To Change You",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Damien%20Rice%20%E2%80%93%20I%20Don%E2%80%99t%20Want%20To%20Change%20You%20%5BOfficial%20Video%5D%20%5BFnzHOsiaJns%5D.mp3"
+  },
+  {
+    "id": "96",
+    "title": "Dido - Thank You",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Dido%20-%20Thank%20You%20(Official%20Video).mp3"
+  },
+  {
+    "id": "97",
+    "title": "Djo - End Of Beginning",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Djo%20-%20End%20Of%20Beginning%20(Lyrics)%20%5BB3Z4XGAxJB0%5D.mp3"
+  },
+  {
+    "id": "98",
+    "title": "Ed Sheeran - Perfect",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Ed%20Sheeran%20-%20Perfect%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "99",
+    "title": "Ed Sheeran - Thinking Out Loud",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Ed%20Sheeran%20-%20Thinking%20Out%20Loud%20%5BOfficial%20Video%5D.mp3"
+  },
+  {
+    "id": "100",
+    "title": "Ed",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Ed_Sheeran_-_South_of_the_Border_(feat._Camila_Cabello_%26_Cardi_B)_-Official_Video-(128kbps).mp3"
+  },
+  {
+    "id": "101",
+    "title": "Eminem - Love The Way You Lie feat. Rihanna",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Eminem%20-%20Love%20The%20Way%20You%20Lie%20ft.%20Rihanna.mp3"
+  },
+  {
+    "id": "102",
+    "title": "Enrique Iglesias - Bailando  feat. Sean Paul, Descemer Bueno, Gente De Zona",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Enrique%20Iglesias%20-%20Bailando%20(English%20Version)%20ft.%20Sean%20Paul%2C%20Descemer%20Bueno%2C%20Gente%20De%20Zona.mp3"
+  },
+  {
+    "id": "103",
+    "title": "Enrique Iglesias - DUELE EL CORAZON feat. Wisin",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Enrique%20Iglesias%20-%20DUELE%20EL%20CORAZON%20ft.%20Wisin.mp3"
+  },
+  {
+    "id": "104",
+    "title": "Enrique Iglesias - EL BAÑO feat. Bad Bunny",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Enrique%20Iglesias%20-%20EL%20BA%C3%91O%20ft.%20Bad%20Bunny.mp3"
+  },
+  {
+    "id": "105",
+    "title": "Enrique Iglesias - El Perdedor  feat. Marco Antonio Solís",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Enrique%20Iglesias%20-%20El%20Perdedor%20(Pop)%20ft.%20Marco%20Antonio%20Sol%C3%ADs.mp3"
+  },
+  {
+    "id": "106",
+    "title": "Enrique Iglesias - Heartbeat  feat. Nicole Scherzinger",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Enrique%20Iglesias%20-%20Heartbeat%20(Official%20Music%20Video)%20ft.%20Nicole%20Scherzinger%20-%20YouTube.mp3"
+  },
+  {
+    "id": "107",
+    "title": "Enrique Iglesias - SUBEME LA RADIO  feat. Descemer Bueno, Zion & Lennox",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Enrique%20Iglesias%20-%20SUBEME%20LA%20RADIO%20(Official%20Video)%20ft.%20Descemer%20Bueno%2C%20Zion%20%26%20Lennox%20-%20YouTube.mp3"
+  },
+  {
+    "id": "108",
+    "title": "Enrique Iglesias - Takin' Back My Love feat. Ciara",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Enrique%20Iglesias%20-%20Takin'%20Back%20My%20Love%20feat.%20Ciara.mp3"
+  },
+  {
+    "id": "109",
+    "title": "Enrique Iglesias - Tonight",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Enrique%20Iglesias%20-%20Tonight%20(I'm%20Lovin'%20You)%20-%20YouTube.mp3"
+  },
+  {
+    "id": "110",
+    "title": "Enrique",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Enrique_Iglesias_-_Hero(128kbps).mp3"
+  },
+  {
+    "id": "111",
+    "title": "Enrique",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Enrique_Iglesias_-_Somebody's_Me_(Official_Video)(128kbps).mp3"
+  },
+  {
+    "id": "112",
+    "title": "Farhan",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Farhan_Saeed_-_Pi_Jaun_(Official_Video)(128kbps).mp3"
+  },
+  {
+    "id": "113",
+    "title": "Fight Club • Where Is My Mind • Pixies",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Fight%20Club%20%E2%80%A2%20Where%20Is%20My%20Mind%20%E2%80%A2%20Pixies%20%5BFSCgfI3OG7s%5D.mp3"
+  },
+  {
+    "id": "114",
+    "title": "Fly Me To The Moon",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Fly%20Me%20To%20The%20Moon%20(remix).mp3"
+  },
+  {
+    "id": "115",
+    "title": "G-Eazy x Bebe Rexha - Me, Myself & I",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/G-Eazy%20x%20Bebe%20Rexha%20-%20Me%2C%20Myself%20%26%20I%20-%20YouTube.mp3"
+  },
+  {
+    "id": "116",
+    "title": "Green Day - Wake Me Up When September Ends",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Green%20Day%20-%20Wake%20Me%20Up%20When%20September%20Ends%20%5BOfficial%20Music%20Video%5D.mp3"
+  },
+  {
+    "id": "117",
+    "title": "Gym Class Heroes- Stereo Hearts feat. Adam Levine",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Gym%20Class%20Heroes-%20Stereo%20Hearts%20ft.%20Adam%20Levine%20%5BOFFICIAL%20VIDEO%5D.mp3"
+  },
+  {
+    "id": "118",
+    "title": "Hailee Steinfeld, BloodPop® - Capital Letters",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Hailee%20Steinfeld%2C%20BloodPop%C2%AE%20-%20Capital%20Letters.mp3"
+  },
+  {
+    "id": "119",
+    "title": "Halsey - Without Me",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Halsey%20-%20Without%20Me.mp3"
+  },
+  {
+    "id": "120",
+    "title": "Halsey",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Halsey_-_Graveyard(256kbps).mp3"
+  },
+  {
+    "id": "121",
+    "title": "Heart Attack- - Demi Lovato",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Heart%20Attack-%20-%20Demi%20Lovato%20(Sam%20Tsui%20%26%20Chrissy%20Costanza%20of%20ATC).mp3"
+  },
+  {
+    "id": "122",
+    "title": "Heavy  - Linkin Park",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Heavy%20%5BOfficial%20Music%20Video%5D%20-%20Linkin%20Park%20(feat.%20Kiiara)%20-%20YouTube.MP3"
+  },
+  {
+    "id": "123",
+    "title": "Hey Violet - Hoodie",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Hey%20Violet%20-%20Hoodie%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "124",
+    "title": "Hoobastank - The Reason",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Hoobastank%20-%20The%20Reason%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "125",
+    "title": "I Don't Care - Ed Sheeran & Justin Bieber - cover by Kyson Facer & Jada Facer",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/I%20Don't%20Care%20-%20Ed%20Sheeran%20%26%20Justin%20Bieber%20-%20cover%20by%20Kyson%20Facer%20%26%20Jada%20Facer.mp3"
+  },
+  {
+    "id": "126",
+    "title": "ILLENIUM - Nightlight",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/ILLENIUM%20-%20Nightlight%20_%20Hard%20To%20Say%20Goodbye%20(Ekali%20%26%20feat.%20Chloe%20Angelides).mp3"
+  },
+  {
+    "id": "127",
+    "title": "Imagine Dragons - Whatever It Takes",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Imagine%20Dragons%20-%20Whatever%20It%20Takes.mp3"
+  },
+  {
+    "id": "128",
+    "title": "Indila - Dernière Danse",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Indila%20-%20Derni%C3%A8re%20Danse%20(Clip%20Officiel)%20-%20YouTube.mp3"
+  },
+  {
+    "id": "129",
+    "title": "J. Balvin - Tu Veneno",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/J.%20Balvin%20-%20Tu%20Veneno%20(Official%20Video).mp3"
+  },
+  {
+    "id": "130",
+    "title": "J. Balvin, Dua Lipa, Bad Bunny, Tainy - UN DIA",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/J.%20Balvin%2C%20Dua%20Lipa%2C%20Bad%20Bunny%2C%20Tainy%20-%20UN%20DIA%20(ONE%20DAY).mp3"
+  },
+  {
+    "id": "131",
+    "title": "Jennifer Connelly -  No Vacation",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Jennifer%20Connelly%20-%20%20No%20Vacation.mp3"
+  },
+  {
+    "id": "132",
+    "title": "John Denver - Annie's Song",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/John%20Denver%20-%20Annie's%20Song%20(Official%20Audio).mp3"
+  },
+  {
+    "id": "133",
+    "title": "John Denver - Take Me Home, Country Roads",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/John%20Denver%20-%20Take%20Me%20Home%2C%20Country%20Roads%20(Audio).mp3"
+  },
+  {
+    "id": "134",
+    "title": "Just A Dream- by Nelly - Sam Tsui & Christina Grimmie",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Just%20A%20Dream-%20by%20Nelly%20-%20Sam%20Tsui%20%26%20Christina%20Grimmie%20-%20YouTube.mp3"
+  },
+  {
+    "id": "135",
+    "title": "Just Give Me A Reason- - Pink ft Nate Ruess",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Just%20Give%20Me%20A%20Reason-%20-%20Pink%20ft%20Nate%20Ruess%20(Sam%20Tsui%20%26%20Kylee%20Cover).mp3"
+  },
+  {
+    "id": "136",
+    "title": "Justin Timberlake - Mirrors",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Justin%20Timberlake%20-%20Mirrors%20(Official%20Video).mp3"
+  },
+  {
+    "id": "137",
+    "title": "KATE LINN - Eye to Eye",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/KATE%20LINN%20-%20Eye%20to%20Eye%20(by%20Monoir)%20%5BOfficial%20Video%5D.mp3"
+  },
+  {
+    "id": "138",
+    "title": "KATE LINN - Zaynah",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/KATE%20LINN%20-%20Zaynah%20(feat.%20Chris%20Thrace)%20%5BAcoustic%20Session%5D.mp3"
+  },
+  {
+    "id": "139",
+    "title": "Kate Linn & Monoir - Durum",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Kate%20Linn%20%26%20Monoir%20-%20Durum%20(Official%20Video).mp3"
+  },
+  {
+    "id": "140",
+    "title": "Kate Linn - All Night",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Kate%20Linn%20-%20All%20Night%20(Official%20Video).mp3"
+  },
+  {
+    "id": "141",
+    "title": "Kate Linn - On My Way",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Kate%20Linn%20-%20On%20My%20Way%20(Official%20Video).mp3"
+  },
+  {
+    "id": "142",
+    "title": "Kate Linn - Ring My Bell",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Kate%20Linn%20-%20Ring%20My%20Bell%20%20(Official%20Video).mp3"
+  },
+  {
+    "id": "143",
+    "title": "Kate Linn - Wildfire",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Kate%20Linn%20-%20Wildfire.mp3"
+  },
+  {
+    "id": "144",
+    "title": "Kate Linn - Ya La",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Kate%20Linn%20-%20Ya%20La%20(Official%20Video).mp3"
+  },
+  {
+    "id": "145",
+    "title": "Kate Linn - Your Love",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Kate%20Linn%20-%20Your%20Love%20(by%20Monoir)%20%5BOfficial%20Video%5D.mp3"
+  },
+  {
+    "id": "146",
+    "title": "Kate Linn - Zaynah feat. Chris Thrace",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Kate%20Linn%20-%20Zaynah%20feat.%20Chris%20Thrace%20-%20Official%20Video_2.mp3"
+  },
+  {
+    "id": "147",
+    "title": "Kygo, Selena Gomez - It Ain't Me",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Kygo%2C%20Selena%20Gomez%20-%20It%20Ain't%20Me%20(Official%20Video).mp3"
+  },
+  {
+    "id": "148",
+    "title": "LP - Lost On You",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/LP%20-%20Lost%20On%20You%20%5BOfficial%20Video%5D.mp3"
+  },
+  {
+    "id": "149",
+    "title": "Lady Gaga - Always Remember Us This Way",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Lady%20Gaga%20-%20Always%20Remember%20Us%20This%20Way%20(from%20A%20Star%20Is%20Born)%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "150",
+    "title": "Lana Del Rey - Blue Jeans",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Lana%20Del%20Rey%20-%20Blue%20Jeans.mp3"
+  },
+  {
+    "id": "151",
+    "title": "Lana Del Rey - Born To Die",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Lana%20Del%20Rey%20-%20Born%20To%20Die%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "152",
+    "title": "Lana Del Rey - Summertime Sadness",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Lana%20Del%20Rey%20-%20Summertime%20Sadness%20%5BnVjsGKrE6E8%5D.mp3"
+  },
+  {
+    "id": "153",
+    "title": "Lany",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Lany_-_You_.mp3"
+  },
+  {
+    "id": "154",
+    "title": "Lewis Capaldi - Before You Go",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Lewis%20Capaldi%20-%20Before%20You%20Go.mp3"
+  },
+  {
+    "id": "155",
+    "title": "Lil Late - So Wrong",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Lil%20Late%20-%20So%20Wrong%20(Official%20Audio).mp3"
+  },
+  {
+    "id": "156",
+    "title": "Lil Late - Worth It",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Lil%20Late%20-%20Worth%20It%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "157",
+    "title": "Lil Nas X - Old Town Road  feat. Billy Ray Cyrus",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Lil%20Nas%20X%20-%20Old%20Town%20Road%20(Official%20Movie)%20ft.%20Billy%20Ray%20Cyrus.mp3"
+  },
+  {
+    "id": "158",
+    "title": "Locked Away - R City feat. Adam Levine - Sam Tsui & Kirsten Collins COVER",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Locked%20Away%20-%20R%20City%20ft.%20Adam%20Levine%20-%20Sam%20Tsui%20%26%20Kirsten%20Collins%20COVER.mp3"
+  },
+  {
+    "id": "159",
+    "title": "Logan - Way Down We Go - Music Video",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Logan%20-%20Way%20Down%20We%20Go%20-%20Music%20Video.mp3"
+  },
+  {
+    "id": "160",
+    "title": "Love, Rosie - High Hopes",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Love%2C%20Rosie%20-%20High%20Hopes%20-%20YouTube.mp3"
+  },
+  {
+    "id": "161",
+    "title": "Lucifer & Chloe - Devil Side",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Lucifer%20%26%20Chloe%20-%20Devil%20Side%20-%20YouTube.mp3"
+  },
+  {
+    "id": "162",
+    "title": "Luis Fonsi - Despacito feat. Daddy Yankee",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Luis%20Fonsi%20-%20Despacito%20ft.%20Daddy%20Yankee%20-%20YouTube.mp3"
+  },
+  {
+    "id": "163",
+    "title": "MALIK - Mindreader",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/MALIK%20-%20Mindreader%20(Official%20Video).mp3"
+  },
+  {
+    "id": "164",
+    "title": "Maluma, Jennifer Lopez - Lonely",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Maluma%2C%20Jennifer%20Lopez%20-%20Lonely%20(Official%20Video)%20-%20YouTube.mp3"
+  },
+  {
+    "id": "165",
+    "title": "Maroon 5 - Memories",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Maroon%205%20-%20Memories%20(%20cover%20by%20J.Fla%20).mp3"
+  },
+  {
+    "id": "166",
+    "title": "Maroon 5 - Memories",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Maroon%205%20-%20Memories%20(KHS%20%26%20Ni_Co%20Cover)_2.mp3"
+  },
+  {
+    "id": "167",
+    "title": "Martin Garrix & David Guetta - So Far Away  feat. Jamie Scott & Romy Dya",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Martin%20Garrix%20%26%20David%20Guetta%20-%20So%20Far%20Away%20(Official%20Video)%20feat.%20Jamie%20Scott%20%26%20Romy%20Dya.mp3"
+  },
+  {
+    "id": "168",
+    "title": "Martin Garrix & Dua Lipa - Scared To Be Lonely",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Martin%20Garrix%20%26%20Dua%20Lipa%20-%20Scared%20To%20Be%20Lonely%20(Official%20Video).mp3"
+  },
+  {
+    "id": "169",
+    "title": "Martin",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Martin_Hall_-_In_And_Out_Of_Love(128kbps).mp3"
+  },
+  {
+    "id": "170",
+    "title": "Michael Jackson - Beat It",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Michael%20Jackson%20-%20Beat%20It%20(Official%204K%20Video)%20%5BoRdxUFDoQe0%5D.mp3"
+  },
+  {
+    "id": "171",
+    "title": "Night Changes",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Night%20Changes_320(PagalWorld).mp3"
+  },
+  {
+    "id": "172",
+    "title": "Pink Floyd - Wish You Were Here",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Pink%20Floyd%20-%20Wish%20You%20Were%20Here%20(Eternal%20Sunshine%20of%20the%20Spotless%20Mind)%20%5BHD%5D.mp3"
+  },
+  {
+    "id": "173",
+    "title": "Poets of the Fall - Carnival of Rust",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Poets%20of%20the%20Fall%20-%20Carnival%20of%20Rust%20(Official%20Video%20w_%20Lyrics)%20-%20YouTube.mp3"
+  },
+  {
+    "id": "174",
+    "title": "Prateek Kuhad - Co2",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Prateek%20Kuhad%20-%20Co2%20(Official%20Audio)%20%5BU2SVCCENLjE%5D.mp3"
+  },
+  {
+    "id": "175",
+    "title": "Radioactive- Imagine Dragons",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Radioactive-%20Imagine%20Dragons%20(ft.%20The%20Macy%20Kate%20Band%20%26%20Kurt%20Schneider).mp3"
+  },
+  {
+    "id": "176",
+    "title": "RedOne - Don't You Need Somebody",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/RedOne%20-%20Don't%20You%20Need%20Somebody%20%5BFriends%20of%20RedOne's%20Version%5D.mp3"
+  },
+  {
+    "id": "177",
+    "title": "Reea feat. Akcent - Rain",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Reea%20feat.%20Akcent%20-%20Rain%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "178",
+    "title": "Rixton - Me and My Broken Heart",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Rixton%20-%20Me%20and%20My%20Broken%20Heart%20(Official%20Video).mp3"
+  },
+  {
+    "id": "179",
+    "title": "Sandra N - Liar",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Sandra%20N%20-%20Liar.mp3"
+  },
+  {
+    "id": "180",
+    "title": "Seals & Crofts - Summer Breeze",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Seals%20%26%20Crofts%20-%20Summer%20Breeze%20(Official%20Audio)-GQQbjpomexo.mp3"
+  },
+  {
+    "id": "181",
+    "title": "Selena Gomez & Alan Walker - Doesn’t Really Matter",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Selena%20Gomez%20%26%20Alan%20Walker%20-%20Doesn%E2%80%99t%20Really%20Matter%20(Lyrics%20_%20Lyric%20Video)-7coTozaCfWs.mp3"
+  },
+  {
+    "id": "182",
+    "title": "Selena Gomez, Rauw Alejandro - Baila Conmigo",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/Selena%20Gomez%2C%20Rauw%20Alejandro%20-%20Baila%20Conmigo%20(Performance%20Video).mp3"
+  },
+  {
+    "id": "183",
+    "title": "Shawn Mendes - There's Nothing Holdin' Me Back",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/Shawn%20Mendes%20-%20There's%20Nothing%20Holdin'%20Me%20Back.mp3"
+  },
+  {
+    "id": "184",
+    "title": "Shawn Mendes - Treat You Better",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/Shawn%20Mendes%20-%20Treat%20You%20Better.mp3"
+  },
+  {
+    "id": "185",
+    "title": "Shawn Mendes, Camila Cabello - Señorita",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/Shawn%20Mendes%2C%20Camila%20Cabello%20-%20Se%C3%B1orita.mp3"
+  },
+  {
+    "id": "186",
+    "title": "Shayne Ward - No Promises",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Shayne%20Ward%20-%20No%20Promises%20(Video).mp3"
+  },
+  {
+    "id": "187",
+    "title": "Stereophonics - I Wanna Get Lost With You",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Stereophonics%20-%20I%20Wanna%20Get%20Lost%20With%20You.mp3"
+  },
+  {
+    "id": "188",
+    "title": "Taylor Swift - You Belong With Me",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Taylor%20Swift%20-%20You%20Belong%20With%20Me.mp3"
+  },
+  {
+    "id": "189",
+    "title": "Taylor Swift - willow",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/Taylor%20Swift%20-%20willow%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "190",
+    "title": "The 1975 - Robbers",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/The%201975%20-%20Robbers%20(Official%20Video)%20(Explicit)%20-%20YouTube.mp3"
+  },
+  {
+    "id": "191",
+    "title": "The 1975 - Somebody Else",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/The%201975%20-%20Somebody%20Else%20(Alternative%20Music%20Video).mp3"
+  },
+  {
+    "id": "192",
+    "title": "The Cranberries - Zombie",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/The%20Cranberries%20-%20Zombie%20(%20cover%20by%20J.Fla%20).mp3"
+  },
+  {
+    "id": "193",
+    "title": "The Vamps - Somebody To You feat. Demi Lovato",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/The%20Vamps%20-%20Somebody%20To%20You%20ft.%20Demi%20Lovato%20%5B0go2nfVXFgA%5D.mp3"
+  },
+  {
+    "id": "194",
+    "title": "Tiny Dancer - Elton John",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/Tiny%20Dancer%20-%20Elton%20John%20-%20YouTube.MP3"
+  },
+  {
+    "id": "195",
+    "title": "Whatever It Takes - Imagine Dragons - Kyle Wesley & Madilyn Paige Cover",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Hollywood/Whatever%20It%20Takes%20-%20Imagine%20Dragons%20-%20Kyle%20Wesley%20%26%20Madilyn%20Paige%20Cover.mp3"
+  },
+  {
+    "id": "196",
+    "title": "Witt Lowry - Into Your Arms",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Hollywood/Witt%20Lowry%20-%20Into%20Your%20Arms%20(feat.%20Ava%20Max)%20(Official%20Music%20Video).mp3"
+  },
+  {
+    "id": "197",
+    "title": "bülow - Sweet Little Lies  4K",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Hollywood/b%C3%BClow%20-%20Sweet%20Little%20Lies%20(%20HAYASA%20G%20Remix%20)%204K.mp3"
+  },
+  {
+    "id": "198",
+    "title": "carla rosón",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Hollywood/carla%20ros%C3%B3n%20_%20prom%20queen%20%5Belite%5D-Z9EiHw6ZkJI.mp3"
+  },
+  {
+    "id": "199",
+    "title": "flora cash - You're Somebody Else",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Hollywood/flora%20cash%20-%20You're%20Somebody%20Else%20(Lyric%20Video).mp3"
+  },
+  {
+    "id": "200",
+    "title": "its",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Hollywood/its_not_goodbye.mp3"
+  },
+  {
+    "id": "201",
+    "title": "out",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Hollywood/out.mp3"
+  },
+  {
+    "id": "202",
+    "title": "twenty one pilots - Ride",
+    "artist": "Hollywood",
+    "album": "Hollywood",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Hollywood/twenty%20one%20pilots%20-%20Ride%20(Official%20Video)-Pw-0pbY9JeU.mp3"
+  },
+  {
+    "id": "203",
+    "title": "Scorpions - Gas In The Tank",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Scorpions%20Rocks/Scorpions%20-%20Gas%20In%20The%20Tank%20%5BLyric%20Video%5D-uJZxT9pP6d4.mp3"
+  },
+  {
+    "id": "204",
+    "title": "Scorpions - Hot And Cold -J",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Scorpions%20Rocks/Scorpions%20-%20Hot%20And%20Cold%20%5BLyric%20Video%5D-J_tqoVdFY1w.mp3"
+  },
+  {
+    "id": "205",
+    "title": "Scorpions - Knock 'em Dead",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Scorpions%20Rocks/Scorpions%20-%20Knock%20'em%20Dead%20%5BLyric%20Video%5D-RWzU3dIP69Q.mp3"
+  },
+  {
+    "id": "206",
+    "title": "Scorpions - No One Like You",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Scorpions%20Rocks/Scorpions%20-%20No%20One%20Like%20You%20(Official%20Video)-6VwbyBGbqPY.mp3"
+  },
+  {
+    "id": "207",
+    "title": "Scorpions - Peacemaker",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/Scorpions%20Rocks/Scorpions%20-%20Peacemaker%20(Official%20Video)-fUWcVNLNvrs.mp3"
+  },
+  {
+    "id": "208",
+    "title": "Scorpions - Rock Believer",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/Scorpions%20Rocks/Scorpions%20-%20Rock%20Believer%20(Official%20Video)-TllvFtkXMBE.mp3"
+  },
+  {
+    "id": "209",
+    "title": "Scorpions - Roots In My Boots",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/Scorpions%20Rocks/Scorpions%20-%20Roots%20In%20My%20Boots%20%5BLyric%20Video%5D-qTCbfzCswV8.mp3"
+  },
+  {
+    "id": "210",
+    "title": "Scorpions - Seventh Sun",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/Scorpions%20Rocks/Scorpions%20-%20Seventh%20Sun%20%5BLyric%20Video%5D-6MUY50Z5SDk.mp3"
+  },
+  {
+    "id": "211",
+    "title": "Scorpions - Shining Of Your Soul",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/Scorpions%20Rocks/Scorpions%20-%20Shining%20Of%20Your%20Soul%20(Official%20Audio)-iJLV1E4O2Zs.mp3"
+  },
+  {
+    "id": "212",
+    "title": "Scorpions - Shoot For Your Heart",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/Scorpions%20Rocks/Scorpions%20-%20Shoot%20For%20Your%20Heart%20%5BLyric%20Video%5D-_Y3f89Ml7WA.mp3"
+  },
+  {
+    "id": "213",
+    "title": "Scorpions - The Language Of My Heart",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/Scorpions%20Rocks/Scorpions%20-%20The%20Language%20Of%20My%20Heart%20(Lyric%20Video)-HqoCiVPhMKQ.mp3"
+  },
+  {
+    "id": "214",
+    "title": "Scorpions - When You Know",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/Scorpions%20Rocks/Scorpions%20-%20When%20You%20Know%20(Where%20You%20Come%20From)%20%5BOfficial%20Video%5D-syNDdIfKbkw.mp3"
+  },
+  {
+    "id": "215",
+    "title": "The Chainsmokers & Coldplay - Something Just Like This",
+    "artist": "The Chainsmokers",
+    "album": "The Chainsmokers",
+    "genre": "Electronic",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/The%20Chainsmokers/The%20Chainsmokers%20%26%20Coldplay%20-%20Something%20Just%20Like%20This%20(Lyrics)-5sJnPuNMQpo.mp3"
+  },
+  {
+    "id": "216",
+    "title": "The Chainsmokers - All We Know  feat. Phoebe Ryan",
+    "artist": "The Chainsmokers",
+    "album": "The Chainsmokers",
+    "genre": "Electronic",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/The%20Chainsmokers/The%20Chainsmokers%20-%20All%20We%20Know%20(Official%20Video)%20ft.%20Phoebe%20Ryan-7mWQ38SpEf8.mp3"
+  },
+  {
+    "id": "217",
+    "title": "The Chainsmokers - Call You Mine  feat. Bebe Rexha",
+    "artist": "The Chainsmokers",
+    "album": "The Chainsmokers",
+    "genre": "Electronic",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/The%20Chainsmokers/The%20Chainsmokers%20-%20Call%20You%20Mine%20(Official%20Video)%20ft.%20Bebe%20Rexha-3XCVM3G3pns.mp3"
+  },
+  {
+    "id": "218",
+    "title": "The Chainsmokers - Closer  feat. Halsey-PT2",
+    "artist": "The Chainsmokers",
+    "album": "The Chainsmokers",
+    "genre": "Electronic",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/The%20Chainsmokers/The%20Chainsmokers%20-%20Closer%20(Lyric)%20ft.%20Halsey-PT2_F-1esPk.mp3"
+  },
+  {
+    "id": "219",
+    "title": "The Chainsmokers - Don't Let Me Down  feat. Daya",
+    "artist": "The Chainsmokers",
+    "album": "The Chainsmokers",
+    "genre": "Electronic",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/The%20Chainsmokers/The%20Chainsmokers%20-%20Don't%20Let%20Me%20Down%20(Official%20Video)%20ft.%20Daya-Io0fBr1XBUA.mp3"
+  },
+  {
+    "id": "220",
+    "title": "The Chainsmokers - Roses feat. Rozes",
+    "artist": "The Chainsmokers",
+    "album": "The Chainsmokers",
+    "genre": "Electronic",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/The%20Chainsmokers/The%20Chainsmokers%20-%20Roses%20ft.%20Rozes-fOSpFf6wTBk.mp3"
+  },
+  {
+    "id": "221",
+    "title": "The Chainsmokers with Kygo - Family",
+    "artist": "The Chainsmokers",
+    "album": "The Chainsmokers",
+    "genre": "Electronic",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/The%20Chainsmokers/The%20Chainsmokers%20with%20Kygo%20-%20Family%20(Official%20Video)-mPbFxEGzCaM.mp3"
+  },
+  {
+    "id": "222",
+    "title": "The Chainsmokers, XYLØ - Setting Fires  feat. XYLØ",
+    "artist": "The Chainsmokers",
+    "album": "The Chainsmokers",
+    "genre": "Electronic",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/The%20Chainsmokers/The%20Chainsmokers%2C%20XYL%C3%98%20-%20Setting%20Fires%20(Lyric)%20ft.%20XYL%C3%98-v6IAJOOmDMg.mp3"
+  },
+  {
+    "id": "223",
+    "title": "AFTERMATH l MATIR ROUD",
+    "artist": "Aftermath",
+    "album": "Aftermath",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/after%20math/(9)%20AFTERMATH%20l%20MATIR%20ROUD%20(OFFICIAL%20MUSIC%20VIDEO)%20-%20YouTube.MP3"
+  },
+  {
+    "id": "224",
+    "title": "AFTERMATH - DHOA",
+    "artist": "Aftermath",
+    "album": "Aftermath",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/after%20math/AFTERMATH%20-%20DHOA%20(LYRICS%20VIDEO)%20-%20YouTube.MP3"
+  },
+  {
+    "id": "225",
+    "title": "AFTERMATH - TUMI",
+    "artist": "Aftermath",
+    "album": "Aftermath",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/after%20math/AFTERMATH%20-%20TUMI%20(LYRICS%20VIDEO)%20-%20YouTube.MP3"
+  },
+  {
+    "id": "226",
+    "title": "AFTERMATH - UTHSHORGO",
+    "artist": "Aftermath",
+    "album": "Aftermath",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/after%20math/AFTERMATH%20-%20UTHSHORGO%20(LYRICS%20VIDEO)%20-%20YouTube.MP3"
+  },
+  {
+    "id": "227",
+    "title": "Air Supply - Making Love Out Of Nothing At All",
+    "artist": "Air Supply",
+    "album": "Air Supply",
+    "genre": "Soft Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/airsupply/Air%20Supply%20-%20Making%20Love%20Out%20Of%20Nothing%20At%20All%20-%20YouTube.mp3"
+  },
+  {
+    "id": "228",
+    "title": "All out of love - Air Supply",
+    "artist": "Air Supply",
+    "album": "Air Supply",
+    "genre": "Soft Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/airsupply/All%20out%20of%20love%20-%20Air%20Supply%20(With%20Lyrics)%20-%20YouTube.mp3"
+  },
+  {
+    "id": "229",
+    "title": "'Khuda Bhi' FULL VIDEO Song ｜ Sunny Leone ｜ Mohit Chauhan ｜ Ek Paheli Leela",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/bolly/'Khuda%20Bhi'%20FULL%20VIDEO%20Song%20%EF%BD%9C%20Sunny%20Leone%20%EF%BD%9C%20Mohit%20Chauhan%20%EF%BD%9C%20Ek%20Paheli%20Leela%20%5BIgK5-PUeARg%5D.mp3"
+  },
+  {
+    "id": "230",
+    "title": "Arjun - Kabhi Kabhi",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/bolly/Arjun%20-%20Kabhi%20Kabhi%20(feat.%20Shivali%20%26%20Natasha)%20%5BtOScX1sWEaQ%5D.mp3"
+  },
+  {
+    "id": "231",
+    "title": "Arjun： Can't Forget You  VIDEO Song feat. Jonita Gandhi ｜ T-Series",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/bolly/Arjun%EF%BC%9A%20Can't%20Forget%20You%20(Tujhe%20Bhula%20Diya)%20VIDEO%20Song%20ft.%20Jonita%20Gandhi%20%EF%BD%9C%20T-Series%20%5B3rUeTGqsncs%5D.mp3"
+  },
+  {
+    "id": "232",
+    "title": "December'er Shohorey",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/bolly/December'er%20Shohorey%20_%20With%20Love%2C%20Calcutta%20OST-Ly7Z0ljOBd4.mp3"
+  },
+  {
+    "id": "233",
+    "title": "Dil Sambhal Ja Zara Phir Mohabbat  Emraan Hashmi - Mohd Irfan, Arjit, Salim Bhat -Lyrical",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/bolly/Dil%20Sambhal%20Ja%20Zara%20Phir%20Mohabbat%20(Murder%202)%20Emraan%20Hashmi%20-%20Mohd%20Irfan%2C%20Arjit%2C%20Salim%20Bhat%20-Lyrical%20%5B5-OqPhet-NU%5D.mp3"
+  },
+  {
+    "id": "234",
+    "title": "Drifter -  ｜ Andrea Jeremiah feat. Arjun",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/bolly/Drifter%20-%20Official%20Music%20Video%20%EF%BD%9C%20Andrea%20Jeremiah%20feat.%20Arjun%20%5Butcr6zxWRyY%5D.mp3"
+  },
+  {
+    "id": "235",
+    "title": "Exclusive： 'Nakhre'  FULL VIDEO Song ｜ Zack Knight ｜ T-Series",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/bolly/Exclusive%EF%BC%9A%20'Nakhre'%20%20FULL%20VIDEO%20Song%20%EF%BD%9C%20Zack%20Knight%20%EF%BD%9C%20T-Series%20%5BvZAAHUT3RDU%5D.mp3"
+  },
+  {
+    "id": "236",
+    "title": "Hai Dil Ye Mera Full Video Song ｜ Arijit Singh ｜ Hate Story 2 ｜ Jay Bhanushali, Surveen Chawla",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/bolly/Hai%20Dil%20Ye%20Mera%20Full%20Video%20Song%20%EF%BD%9C%20Arijit%20Singh%20%EF%BD%9C%20Hate%20Story%202%20%EF%BD%9C%20Jay%20Bhanushali%2C%20Surveen%20Chawla%20%5BiF6L0mB1bEA%5D.mp3"
+  },
+  {
+    "id": "237",
+    "title": "Humnava Full Video - Hamari Adhuri Kahani｜Emraan Hashmi, Vidya Balan｜Papon｜Mithoon ｜ 4K",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/bolly/Humnava%20Full%20Video%20-%20Hamari%20Adhuri%20Kahani%EF%BD%9CEmraan%20Hashmi%2C%20Vidya%20Balan%EF%BD%9CPapon%EF%BD%9CMithoon%20%EF%BD%9C%204K%20%5BkdCUNPX8fz4%5D.mp3"
+  },
+  {
+    "id": "238",
+    "title": "I'll Be Waiting  Arjun Feat.Arijit Singh ｜ Full Video Song",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/bolly/I'll%20Be%20Waiting%20(Kabhi%20Jo%20Baadal)%20Arjun%20Feat.Arijit%20Singh%20%EF%BD%9C%20Full%20Video%20Song%20(HD)%20%5Bar-3chBG4NU%5D.mp3"
+  },
+  {
+    "id": "239",
+    "title": "Salamat Full Song with Lyrics ｜ SARBJIT ｜ Randeep Hooda, Richa Chadda ｜ T-Series",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/bolly/Salamat%20Full%20Song%20with%20Lyrics%20%EF%BD%9C%20SARBJIT%20%EF%BD%9C%20Randeep%20Hooda%2C%20Richa%20Chadda%20%EF%BD%9C%20T-Series%20%5B6XNTtcvErZc%5D.mp3"
+  },
+  {
+    "id": "240",
+    "title": "The Local Train - Aalas Ka Pedh - Choo Lo",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/bolly/The%20Local%20Train%20-%20Aalas%20Ka%20Pedh%20-%20Choo%20Lo%20(Official%20Audio)-sFMRqxCexDk.mp3"
+  },
+  {
+    "id": "241",
+    "title": "Yeh Raaten Yeh Mausam ｜ Sanam feat. Simran Sehgal",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/bolly/Yeh%20Raaten%20Yeh%20Mausam%20%EF%BD%9C%20Sanam%20ft.%20Simran%20Sehgal%20%5B4HRC6c5-2lQ%5D.mp3"
+  },
+  {
+    "id": "242",
+    "title": "Zara Sa ｜ 4K Music Video ｜ Jannat ｜ Emraan Hashmi ｜ Sonal Chauhan ｜ KK ｜ Pritam ｜ Sayeed Quadri",
+    "artist": "Bollywood",
+    "album": "Bollywood",
+    "genre": "Bollywood",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/bolly/Zara%20Sa%20%EF%BD%9C%204K%20Music%20Video%20%EF%BD%9C%20Jannat%20%EF%BD%9C%20Emraan%20Hashmi%20%EF%BD%9C%20Sonal%20Chauhan%20%EF%BD%9C%20KK%20%EF%BD%9C%20Pritam%20%EF%BD%9C%20Sayeed%20Quadri%20%5BZsAOnmByy38%5D.mp3"
+  },
+  {
+    "id": "243",
+    "title": "Don't Leave Me",
+    "artist": "Green Day",
+    "album": "Green Day",
+    "genre": "Punk Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/green%20day/Don't%20Leave%20Me-j0dnXvd9SMc.mp3"
+  },
+  {
+    "id": "244",
+    "title": "Green Day - 2000 Light Years Away",
+    "artist": "Green Day",
+    "album": "Green Day",
+    "genre": "Punk Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/green%20day/Green%20Day%20-%202000%20Light%20Years%20Away-Yhea380bYp0.mp3"
+  },
+  {
+    "id": "245",
+    "title": "Green Day - 21 Guns",
+    "artist": "Green Day",
+    "album": "Green Day",
+    "genre": "Punk Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/green%20day/Green%20Day%20-%2021%20Guns%20%5BOfficial%20Music%20Video%5D-r00ikilDxW4.mp3"
+  },
+  {
+    "id": "246",
+    "title": "Green Day - American Eulogy",
+    "artist": "Green Day",
+    "album": "Green Day",
+    "genre": "Punk Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/green%20day/Green%20Day%20-%20American%20Eulogy%20-%20%5BHQ%5D-dgPQHYwGhe8.mp3"
+  },
+  {
+    "id": "247",
+    "title": "Green Day - American Idiot -Ee",
+    "artist": "Green Day",
+    "album": "Green Day",
+    "genre": "Punk Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/green%20day/Green%20Day%20-%20American%20Idiot%20%5BOfficial%20Music%20Video%5D-Ee_uujKuJMI.mp3"
+  },
+  {
+    "id": "248",
+    "title": "Green Day - Basket Case",
+    "artist": "Green Day",
+    "album": "Green Day",
+    "genre": "Punk Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/green%20day/Green%20Day%20-%20Basket%20Case%20%5BOfficial%20Music%20Video%5D-NUTGr5t3MoY.mp3"
+  },
+  {
+    "id": "249",
+    "title": "Green Day - Boulevard Of Broken Dreams",
+    "artist": "Green Day",
+    "album": "Green Day",
+    "genre": "Punk Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/green%20day/Green%20Day%20-%20Boulevard%20Of%20Broken%20Dreams%20%5BOfficial%20Music%20Video%5D-Soa3gO7tL-c.mp3"
+  },
+  {
+    "id": "250",
+    "title": "Green Day - Brain Stew",
+    "artist": "Green Day",
+    "album": "Green Day",
+    "genre": "Punk Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/green%20day/Green%20Day%20-%20Brain%20Stew_Jaded%20%5BOfficial%20Music%20Video%5D-UNq9gmY_Oz4.mp3"
+  },
+  {
+    "id": "251",
+    "title": "Green Day - Forever Now - -nPBzqi3",
+    "artist": "Green Day",
+    "album": "Green Day",
+    "genre": "Punk Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/green%20day/Green%20Day%20-%20Forever%20Now%20-%20%5BHQ%5D-nPBzqi3_NNs.mp3"
+  },
+  {
+    "id": "252",
+    "title": "Green Day - Wake Me Up When September Ends Lyrics",
+    "artist": "Green Day",
+    "album": "Green Day",
+    "genre": "Punk Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/green%20day/Green%20Day%20-%20Wake%20Me%20Up%20When%20September%20Ends%20Lyrics-CJcVXOhAe9o.mp3"
+  },
+  {
+    "id": "253",
+    "title": "Green Day - When I Come Around",
+    "artist": "Green Day",
+    "album": "Green Day",
+    "genre": "Punk Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/green%20day/Green%20Day%20-%20When%20I%20Come%20Around%20%5BOfficial%20Music%20Video%5D-i8dh9gDzmz8.mp3"
+  },
+  {
+    "id": "254",
+    "title": "Metallica - The Day That Never Comes",
+    "artist": "Metallica",
+    "album": "Metallica",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/matallica/Metallica%20-%20The%20Day%20That%20Never%20Comes%20(Official%20Music%20Video)%20%5BdkNfNR1WYMY%5D.mp3"
+  },
+  {
+    "id": "255",
+    "title": "Metallica - The Unforgiven",
+    "artist": "Metallica",
+    "album": "Metallica",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/matallica/Metallica%20-%20The%20Unforgiven%20(Official%20Music%20Video)%20%5BCkom3gf57Yw%5D.mp3"
+  },
+  {
+    "id": "256",
+    "title": "Nothing",
+    "artist": "Metallica",
+    "album": "Metallica",
+    "genre": "Metal",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/matallica/Nothing_Else_Matters.mp3"
+  },
+  {
+    "id": "257",
+    "title": "Queen   Hammer to Fall Lyrics",
+    "artist": "Queen",
+    "album": "Queen",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/queen/Queen%20%20%20Hammer%20to%20Fall%20Lyrics-i0giBmm1COY.mp3"
+  },
+  {
+    "id": "258",
+    "title": "Queen - Another One Bites The Dust",
+    "artist": "Queen",
+    "album": "Queen",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/queen/Queen%20-%20Another%20One%20Bites%20The%20Dust%20%5BLyrics%5D-kwwaWVP2PGE.mp3"
+  },
+  {
+    "id": "259",
+    "title": "Queen - I Want to Break Free",
+    "artist": "Queen",
+    "album": "Queen",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/queen/Queen%20-%20I%20Want%20to%20Break%20Free%20(Official%20Lyric%20Video)-WUOtCLOXgm8.mp3"
+  },
+  {
+    "id": "260",
+    "title": "Queen - Love of my life  - HD 720",
+    "artist": "Queen",
+    "album": "Queen",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/queen/Queen%20-%20Love%20of%20my%20life%20(Rock%20Montreal%201981)%20-%20HD%20720-vNsEEvRMtGI.mp3"
+  },
+  {
+    "id": "261",
+    "title": "Queen - Radio Ga Ga",
+    "artist": "Queen",
+    "album": "Queen",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/queen/Queen%20-%20Radio%20Ga%20Ga%20(Official%20Lyric%20Video)-pMYCOYjIKrE.mp3"
+  },
+  {
+    "id": "262",
+    "title": "Queen - Somebody To Love",
+    "artist": "Queen",
+    "album": "Queen",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/queen/Queen%20-%20Somebody%20To%20Love%20(Official%20Lyric%20Video)-SrvO4baXLWI.mp3"
+  },
+  {
+    "id": "263",
+    "title": "Queen - The Show Must Go On",
+    "artist": "Queen",
+    "album": "Queen",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/queen/Queen%20-%20The%20Show%20Must%20Go%20On%20(Lyrics)-PpAartbZJvI.mp3"
+  },
+  {
+    "id": "264",
+    "title": "Queen - We Will Rock You",
+    "artist": "Queen",
+    "album": "Queen",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/queen/Queen%20-%20We%20Will%20Rock%20You%20(Official%20Video)--tJYN-eG1zk.mp3"
+  },
+  {
+    "id": "265",
+    "title": "Queen – Bohemian Rhapsody",
+    "artist": "Queen",
+    "album": "Queen",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/queen/Queen%20%E2%80%93%20Bohemian%20Rhapsody%20(Official%20Video%20Remastered)-fJ9rUzIMcZQ.mp3"
+  },
+  {
+    "id": "266",
+    "title": "Afusic - Pal Pal  Prod. @AliSoomroMusic",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/random/Afusic%20-%20Pal%20Pal%20(Official%20Music%20Video)%20Prod.%20%40AliSoomroMusic%20%5B8of5w7RgcTc%5D.mp3"
+  },
+  {
+    "id": "267",
+    "title": "Alga korogo khopar badhon  - Pulak.avi",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/random/Alga%20korogo%20khopar%20badhon%20(Nazrul%20shongeet)%20-%20Pulak.avi%20%5BLuWCrG-1idk%5D.mp3"
+  },
+  {
+    "id": "268",
+    "title": "Arale ｜  Chowa｜ Hridoy Khan ｜ Full HD ｜ Dolby Atmos",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/random/Arale%20%EF%BD%9C%20%20Chowa%EF%BD%9C%20Hridoy%20Khan%20%EF%BD%9C%20Full%20HD%20%EF%BD%9C%20Dolby%20Atmos%20%5BzJX30vr8nfI%5D.mp3"
+  },
+  {
+    "id": "269",
+    "title": "Arash feat. Helena - Broken Angel",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/random/Arash%20feat.%20Helena%20-%20Broken%20Angel%20(Official%20Video)%20%5BhbqoaJ8sKsQ%5D.mp3"
+  },
+  {
+    "id": "270",
+    "title": "Bilionera",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/random/Bilionera%20%5BcAQtS4vIRQs%5D.mp3"
+  },
+  {
+    "id": "271",
+    "title": "Bulbuli ｜ Coke Studio Bangla ｜ Season One ｜ Ritu Raj X Nandita",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/random/Bulbuli%20%EF%BD%9C%20Coke%20Studio%20Bangla%20%EF%BD%9C%20Season%20One%20%EF%BD%9C%20Ritu%20Raj%20X%20Nandita%20%5B9c1NIrAqXe4%5D.mp3"
+  },
+  {
+    "id": "272",
+    "title": "DHARIA - Sugar & Brownies",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/random/DHARIA%20-%20Sugar%20%26%20Brownies%20(by%20Monoir)%20%5BOfficial%20Video%5D%20%5By2tEPmwWEiI%5D.mp3"
+  },
+  {
+    "id": "273",
+    "title": "DILBAR Lyrical ｜ Satyameva Jayate ｜John Abraham, Nora Fatehi,Tanishk B, Neha Kakkar,Dhvani, Ikka",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/random/DILBAR%20Lyrical%20%EF%BD%9C%20Satyameva%20Jayate%20%EF%BD%9CJohn%20Abraham%2C%20Nora%20Fatehi%2CTanishk%20B%2C%20Neha%20Kakkar%2CDhvani%2C%20Ikka%20%5BJFcgOboQZ08%5D.mp3"
+  },
+  {
+    "id": "274",
+    "title": "DJ Snake - Taki Taki feat. Selena Gomez, Ozuna, Cardi B",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/random/DJ%20Snake%20-%20Taki%20Taki%20ft.%20Selena%20Gomez%2C%20Ozuna%2C%20Cardi%20B%20(Official%20Music%20Video)%20%5BixkoVwKQaJg%5D.mp3"
+  },
+  {
+    "id": "275",
+    "title": "Eki Chowa ｜ একি ছোয়া ｜ Hridoy Khan ｜ Manoj Promanik ｜ Samia Othoi ｜",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/random/Eki%20Chowa%20%EF%BD%9C%20%E0%A6%8F%E0%A6%95%E0%A6%BF%20%E0%A6%9B%E0%A7%8B%E0%A7%9F%E0%A6%BE%20%EF%BD%9C%20Hridoy%20Khan%20%EF%BD%9C%20Manoj%20Promanik%20%EF%BD%9C%20Samia%20Othoi%20%EF%BD%9C%20Official%20Music%20Video%20%5BJWPxeK3co_k%5D.mp3"
+  },
+  {
+    "id": "276",
+    "title": "Exclusive： 'Nakhre'  FULL VIDEO Song ｜ Zack Knight ｜ T-Series",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/random/Exclusive%EF%BC%9A%20'Nakhre'%20%20FULL%20VIDEO%20Song%20%EF%BD%9C%20Zack%20Knight%20%EF%BD%9C%20T-Series%20%5BvZAAHUT3RDU%5D.mp3"
+  },
+  {
+    "id": "277",
+    "title": "Gale Lag Ja - 4K Video ｜ De Dana Dan ｜ Akshay Kumar, Katrina Kaif ｜ Ishtar Music",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/random/Gale%20Lag%20Ja%20-%204K%20Video%20%EF%BD%9C%20De%20Dana%20Dan%20%EF%BD%9C%20Akshay%20Kumar%2C%20Katrina%20Kaif%20%EF%BD%9C%20Ishtar%20Music%20%5BprrmQ4RtMpA%5D.mp3"
+  },
+  {
+    "id": "278",
+    "title": "IJAZAT Lyrical Song ｜ ONE NIGHT STAND｜ Sunny Leone, Tanuj Virwani ｜Arijit Singh, Meet Bros ｜T-Series",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/random/IJAZAT%20Lyrical%20Song%20%EF%BD%9C%20ONE%20NIGHT%20STAND%EF%BD%9C%20Sunny%20Leone%2C%20Tanuj%20Virwani%20%EF%BD%9CArijit%20Singh%2C%20Meet%20Bros%20%EF%BD%9CT-Series%20%5BBV6jxQi-zDM%5D.mp3"
+  },
+  {
+    "id": "279",
+    "title": "INNA - Bad Boys ｜ Exclusive Online Video",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/random/INNA%20-%20Bad%20Boys%20%EF%BD%9C%20Exclusive%20Online%20Video%20%5B6ttobrfMnyQ%5D.mp3"
+  },
+  {
+    "id": "280",
+    "title": "INNA - Yalla ｜",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/random/INNA%20-%20Yalla%20%EF%BD%9C%20Official%20Music%20Video%20%5Bi7wveOu5hkQ%5D.mp3"
+  },
+  {
+    "id": "281",
+    "title": "Jahaan Tum Ho Video Song ｜ Shrey Singhal ｜ Latest Song 2016 ｜ T-Series",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/random/Jahaan%20Tum%20Ho%20Video%20Song%20%EF%BD%9C%20Shrey%20Singhal%20%EF%BD%9C%20Latest%20Song%202016%20%EF%BD%9C%20T-Series%20%5BHxe362w66GI%5D.mp3"
+  },
+  {
+    "id": "282",
+    "title": "Jennifer Lopez - On The Floor feat. Pitbull",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/random/Jennifer%20Lopez%20-%20On%20The%20Floor%20ft.%20Pitbull%20%5Bt4H_Zoh7G5A%5D.mp3"
+  },
+  {
+    "id": "283",
+    "title": "Kali Uchis – telepatía",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/random/Kali%20Uchis%20%E2%80%93%20telepat%C3%ADa%20%5BOfficial%20Music%20Video%5D%20%5Bbn_p95HbHoQ%5D.mp3"
+  },
+  {
+    "id": "284",
+    "title": "Katy Perry - Harleys In Hawaii",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/random/Katy%20Perry%20-%20Harleys%20In%20Hawaii%20(Official)%20%5BsQEgklEwhSo%5D.mp3"
+  },
+  {
+    "id": "285",
+    "title": "Otilia - Aventura",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/random/Otilia%20-%20Aventura%20%5B_cbCKsBGtYw%5D.mp3"
+  },
+  {
+    "id": "286",
+    "title": "Otilia - Diamante",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/random/Otilia%20-%20Diamante%20(Official%20Music%20Video)%20%5BSfwX7JVLv-A%5D.mp3"
+  },
+  {
+    "id": "287",
+    "title": "Pitbull - Rain Over Me feat. Marc Anthony",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/random/Pitbull%20-%20Rain%20Over%20Me%20ft.%20Marc%20Anthony%20%5BSmM0653YvXU%5D.mp3"
+  },
+  {
+    "id": "288",
+    "title": "Sean Paul - No Lie feat. Dua Lipa",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/random/Sean%20Paul%20-%20No%20Lie%20ft.%20Dua%20Lipa%20%5BGzU8KqOY8YA%5D.mp3"
+  },
+  {
+    "id": "289",
+    "title": "Serena - Safari",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/random/Serena%20-%20Safari%20(Official%20Video)%20%5BlpeuIu-ZYJY%5D.mp3"
+  },
+  {
+    "id": "290",
+    "title": "Shakira - Chantaje  feat. Maluma",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/random/Shakira%20-%20Chantaje%20(Official%20Video)%20ft.%20Maluma%20%5B6Mgqbai3fKo%5D.mp3"
+  },
+  {
+    "id": "291",
+    "title": "Shakira - Waka Waka",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/random/Shakira%20-%20Waka%20Waka%20(This%20Time%20for%20Africa)%20(The%20Official%202010%20FIFA%20World%20Cup%E2%84%A2%20Song)%20%5BpRpeEdMmmQ0%5D.mp3"
+  },
+  {
+    "id": "292",
+    "title": "Shawn Mendes, Camila Cabello - Señorita",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/random/Shawn%20Mendes%2C%20Camila%20Cabello%20-%20Se%C3%B1orita%20%5BPkh8UtuejGw%5D.mp3"
+  },
+  {
+    "id": "293",
+    "title": "Sohena Jatona ｜ Arfin Rumey ｜ সহেনা যাতনা ｜ আরফিন রুমি ｜ ‍Music Video",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/random/Sohena%20Jatona%20%EF%BD%9C%20Arfin%20Rumey%20%EF%BD%9C%20%E0%A6%B8%E0%A6%B9%E0%A7%87%E0%A6%A8%E0%A6%BE%20%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%A8%E0%A6%BE%20%EF%BD%9C%20%E0%A6%86%E0%A6%B0%E0%A6%AB%E0%A6%BF%E0%A6%A8%20%E0%A6%B0%E0%A7%81%E0%A6%AE%E0%A6%BF%20%EF%BD%9C%20%E2%80%8DMusic%20Video%20%5BvTr7Bl9P9ls%5D.mp3"
+  },
+  {
+    "id": "294",
+    "title": "Spice, Sean Paul, Shaggy - Go Down Deh ｜",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/random/Spice%2C%20Sean%20Paul%2C%20Shaggy%20-%20Go%20Down%20Deh%20%EF%BD%9C%20Official%20Music%20Video%20%5BlZizLbWxr_E%5D.mp3"
+  },
+  {
+    "id": "295",
+    "title": "Tungevaag, Raaban  - Bad Boy",
+    "artist": "Various Artists",
+    "album": "Various Artists",
+    "genre": "Pop",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/random/Tungevaag%2C%20Raaban%20%20-%20Bad%20Boy%20(Official%20Video)%20%5BWCTjFHyvEaM%5D.mp3"
+  },
+  {
+    "id": "296",
+    "title": "Scorpions - Always Somewhere",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/scorpions/Scorpions%20-%20Always%20Somewhere%20(Official%20Audio)-AepjLbcLrJE.mp3"
+  },
+  {
+    "id": "297",
+    "title": "Scorpions - Follow Your Heart",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/scorpions/Scorpions%20-%20Follow%20Your%20Heart%20(Official%20Lyric%20Video)-tMui4IVW0BM.mp3"
+  },
+  {
+    "id": "298",
+    "title": "Scorpions - Send Me An Angel",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/scorpions/Scorpions%20-%20Send%20Me%20An%20Angel-1UUYjd2rjsE.mp3"
+  },
+  {
+    "id": "299",
+    "title": "Scorpions - Still Loving You",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/scorpions/Scorpions%20-%20Still%20Loving%20You%20(original%20video)%20-%20YouTube.MP3"
+  },
+  {
+    "id": "300",
+    "title": "Scorpions - Wind Of Change",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/scorpions/Scorpions%20-%20Wind%20Of%20Change%20(Official%20Music%20Video)-n4RjJKxsamQ.mp3"
+  },
+  {
+    "id": "301",
+    "title": "Scorpions-You and I Lyrics",
+    "artist": "Scorpions",
+    "album": "Scorpions",
+    "genre": "Classic Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/scorpions/Scorpions-You%20and%20I%20Lyrics%20%5B7DmkbVTMOtQ%5D.mp3"
+  },
+  {
+    "id": "302",
+    "title": "99 Problems   - Keyfactor Music",
+    "artist": "Keyfactor Music",
+    "album": "Keyfactor Music",
+    "genre": "Novelty",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/security_music/99%20Problems%20(PKI's%20the%20Big%20One)%20Lyric%20Video%20-%20Keyfactor%20Music%20%5BFlVC95foEq8%5D.mp3"
+  },
+  {
+    "id": "303",
+    "title": "Certageddon  - Keyfactor Music",
+    "artist": "Keyfactor Music",
+    "album": "Keyfactor Music",
+    "genre": "Novelty",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/security_music/Certageddon%20Lyric%20Video%20-%20Keyfactor%20Music%20%5BOugGCY-xnmg%5D.mp3"
+  },
+  {
+    "id": "304",
+    "title": "I've Seen the Light   - Keyfactor Music",
+    "artist": "Keyfactor Music",
+    "album": "Keyfactor Music",
+    "genre": "Novelty",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/security_music/I've%20Seen%20the%20Light%20(Of%20Quantum%20Ready%20Cryptography)%20Lyric%20Video%20-%20Keyfactor%20Music%20%5BOfxefZEKmf8%5D.mp3"
+  },
+  {
+    "id": "305",
+    "title": "Keys in the Void  - Keyfactor Music",
+    "artist": "Keyfactor Music",
+    "album": "Keyfactor Music",
+    "genre": "Novelty",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/security_music/Keys%20in%20the%20Void%20Lyric%20Video%20-%20Keyfactor%20Music%20%5BoFJHsPxezi4%5D.mp3"
+  },
+  {
+    "id": "306",
+    "title": "March to 47  - Keyfactor Music",
+    "artist": "Keyfactor Music",
+    "album": "Keyfactor Music",
+    "genre": "Novelty",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/security_music/March%20to%2047%20Lyric%20Video%20-%20Keyfactor%20Music%20%5BqwFtxjP4ou4%5D.mp3"
+  },
+  {
+    "id": "307",
+    "title": "Oops...The Cert Died Again  - Keyfactor Music Premiere #pki #digitaltrust",
+    "artist": "Keyfactor Music",
+    "album": "Keyfactor Music",
+    "genre": "Novelty",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/security_music/Oops...The%20Cert%20Died%20Again%20Lyric%20Video%20-%20Keyfactor%20Music%20Premiere%20%23pki%20%23digitaltrust%20%5BVfCLjpf6aQY%5D.mp3"
+  },
+  {
+    "id": "308",
+    "title": "Push It   - Keyfactor Music",
+    "artist": "Keyfactor Music",
+    "album": "Keyfactor Music",
+    "genre": "Novelty",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/security_music/Push%20It%20(But%20Verify)%20Lyric%20Video%20-%20Keyfactor%20Music%20%5BCJLa1-_u3EM%5D.mp3"
+  },
+  {
+    "id": "309",
+    "title": "The Death of RSA, The Fall of ECC  - Keyfactor Music",
+    "artist": "Keyfactor Music",
+    "album": "Keyfactor Music",
+    "genre": "Novelty",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/security_music/The%20Death%20of%20RSA%2C%20The%20Fall%20of%20ECC%20Lyric%20Video%20-%20Keyfactor%20Music%20%5BKZIC_1tiWoE%5D.mp3"
+  },
+  {
+    "id": "310",
+    "title": "The Quantum Countdown  - Keyfactor Music",
+    "artist": "Keyfactor Music",
+    "album": "Keyfactor Music",
+    "genre": "Novelty",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/security_music/The%20Quantum%20Countdown%20Lyric%20Video%20-%20Keyfactor%20Music%20%5BqladNmfDOgM%5D.mp3"
+  },
+  {
+    "id": "311",
+    "title": "Trust Issues  - Keyfactor Music",
+    "artist": "Keyfactor Music",
+    "album": "Keyfactor Music",
+    "genre": "Novelty",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/security_music/Trust%20Issues%20Lyric%20Video%20-%20Keyfactor%20Music%20%5B0_t8inRt3fc%5D.mp3"
+  },
+  {
+    "id": "312",
+    "title": "Seether - Against The Wall",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/seethere/Seether%20-%20Against%20The%20Wall%20(Acoustic%20Version%20%E2%A7%B8%20Official%20Music%20Video)%20%5BqUP2LRqVHP4%5D.mp3"
+  },
+  {
+    "id": "313",
+    "title": "Seether - Beg",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/seethere/Seether%20-%20Beg%20%5Bz7ALo220QKU%5D.mp3"
+  },
+  {
+    "id": "314",
+    "title": "Seether - Betray And Degrade",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/seethere/Seether%20-%20Betray%20And%20Degrade%20(Music%20Video)%20%5BGp8lDW2LUM0%5D.mp3"
+  },
+  {
+    "id": "315",
+    "title": "Seether - Breakdown",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/seethere/Seether%20-%20Breakdown%20%5BBDKM181eTsM%5D.mp3"
+  },
+  {
+    "id": "316",
+    "title": "Seether - Broken feat. Amy Lee",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/seethere/Seether%20-%20Broken%20ft.%20Amy%20Lee%20%5BhPC2Fp7IT7o%5D.mp3"
+  },
+  {
+    "id": "317",
+    "title": "Seether - Bruised And Bloodied",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/seethere/Seether%20-%20Bruised%20And%20Bloodied%20(Official%20Music%20Video)%20%5BRbslF7GISf0%5D.mp3"
+  },
+  {
+    "id": "318",
+    "title": "Seether - Careless Whisper",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/seethere/Seether%20-%20Careless%20Whisper%20%5Bg0_dyc4IrLg%5D.mp3"
+  },
+  {
+    "id": "319",
+    "title": "Seether - Country Song",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/seethere/Seether%20-%20Country%20Song%20%5B4NMxwbn_QoU%5D.mp3"
+  },
+  {
+    "id": "320",
+    "title": "Seether - Dangerous",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/seethere/Seether%20-%20Dangerous%20(Official%20Music%20Video)%20%5BrPdS8Ij_LuA%5D.mp3"
+  },
+  {
+    "id": "321",
+    "title": "Seether - Driven Under",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/seethere/Seether%20-%20Driven%20Under%20%5BQkJzemljk8s%5D.mp3"
+  },
+  {
+    "id": "322",
+    "title": "Seether - Fake It",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/seethere/Seether%20-%20Fake%20It%20%5Bgy8HPSIFXEM%5D.mp3"
+  },
+  {
+    "id": "323",
+    "title": "Seether - Fine Again",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/seethere/Seether%20-%20Fine%20Again%20%5BET3-t1jFmo0%5D.mp3"
+  },
+  {
+    "id": "324",
+    "title": "Seether - Gasoline",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/seethere/Seether%20-%20Gasoline%20%5BmF53On_P7qI%5D.mp3"
+  },
+  {
+    "id": "325",
+    "title": "Seether - Here & Now",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/seethere/Seether%20-%20Here%20%26%20Now%20%5ByPpbA4zru1o%5D.mp3"
+  },
+  {
+    "id": "326",
+    "title": "Seether - Let You Down",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/seethere/Seether%20-%20Let%20You%20Down%20%5Bpnlwqqy4XB4%5D.mp3"
+  },
+  {
+    "id": "327",
+    "title": "Seether - Nobody Praying For Me",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/seethere/Seether%20-%20Nobody%20Praying%20For%20Me%20(Official%20Music%20Video)%20%5Bv7uOXHMhaO8%5D.mp3"
+  },
+  {
+    "id": "328",
+    "title": "Seether - Pass Slowly",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/seethere/Seether%20-%20Pass%20Slowly%20%5B4QmHG3dTJWc%5D.mp3"
+  },
+  {
+    "id": "329",
+    "title": "Seether - Remedy",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/seethere/Seether%20-%20Remedy%20%5BFZLILV18ut8%5D.mp3"
+  },
+  {
+    "id": "330",
+    "title": "Seether - Rise Above This",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/seethere/Seether%20-%20Rise%20Above%20This%20%5BqP6JDLQF23g%5D.mp3"
+  },
+  {
+    "id": "331",
+    "title": "Seether - Same Damn Life",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/seethere/Seether%20-%20Same%20Damn%20Life%20%5BZ3_lIPESVTw%5D.mp3"
+  },
+  {
+    "id": "332",
+    "title": "Seether - Save Today",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/seethere/Seether%20-%20Save%20Today%20(Music%20Video)%20%5Bxfj6r5tfEf4%5D.mp3"
+  },
+  {
+    "id": "333",
+    "title": "Seether - Sympathetic",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/seethere/Seether%20-%20Sympathetic%20%5BcfZ6pHOCT08%5D.mp3"
+  },
+  {
+    "id": "334",
+    "title": "Seether - The Gift",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/seethere/Seether%20-%20The%20Gift%20%5BvJUuzAnaWp0%5D.mp3"
+  },
+  {
+    "id": "335",
+    "title": "Seether - Tied My Hands",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/seethere/Seether%20-%20Tied%20My%20Hands%20(Live)%20%5BpULe7-6yRo4%5D.mp3"
+  },
+  {
+    "id": "336",
+    "title": "Seether - Tonight",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/seethere/Seether%20-%20Tonight%20%5BsCzdecygpmg%5D.mp3"
+  },
+  {
+    "id": "337",
+    "title": "Seether - Truth",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/seethere/Seether%20-%20Truth%20%5BzBXkWVZD4qE%5D.mp3"
+  },
+  {
+    "id": "338",
+    "title": "Seether - What Would You Do？",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/seethere/Seether%20-%20What%20Would%20You%20Do%EF%BC%9F%20(Official%20Video)%20%5B7HRzcu4uKvA%5D.mp3"
+  },
+  {
+    "id": "339",
+    "title": "Seether - Words As Weapons",
+    "artist": "Seether",
+    "album": "Seether",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/seethere/Seether%20-%20Words%20As%20Weapons%20(Official%20Music%20Video)%20%5B202fjZZO-tI%5D.mp3"
+  },
+  {
+    "id": "340",
+    "title": "Seether - Breakdown",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/shindown/Seether%20-%20Breakdown%20%5BBDKM181eTsM%5D.mp3"
+  },
+  {
+    "id": "341",
+    "title": "Seether - Broken feat. Amy Lee",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/shindown/Seether%20-%20Broken%20ft.%20Amy%20Lee%20%5BhPC2Fp7IT7o%5D.mp3"
+  },
+  {
+    "id": "342",
+    "title": "Seether - Driven Under",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/shindown/Seether%20-%20Driven%20Under%20%5BQkJzemljk8s%5D.mp3"
+  },
+  {
+    "id": "343",
+    "title": "Seether - Fine Again",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/shindown/Seether%20-%20Fine%20Again%20%5BET3-t1jFmo0%5D.mp3"
+  },
+  {
+    "id": "344",
+    "title": "Seether - Gasoline",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/shindown/Seether%20-%20Gasoline%20%5BmF53On_P7qI%5D.mp3"
+  },
+  {
+    "id": "345",
+    "title": "Seether - Rise Above This",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/shindown/Seether%20-%20Rise%20Above%20This%20%5BqP6JDLQF23g%5D.mp3"
+  },
+  {
+    "id": "346",
+    "title": "Seether - The Gift",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/shindown/Seether%20-%20The%20Gift%20%5BvJUuzAnaWp0%5D.mp3"
+  },
+  {
+    "id": "347",
+    "title": "Seether - Tonight",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/shindown/Seether%20-%20Tonight%20%5BsCzdecygpmg%5D.mp3"
+  },
+  {
+    "id": "348",
+    "title": "Seether - Truth",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/shindown/Seether%20-%20Truth%20%5BzBXkWVZD4qE%5D.mp3"
+  },
+  {
+    "id": "349",
+    "title": "Shinedown - 45",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/shindown/Shinedown%20-%2045%20(Official%20Video)%20%5BHD%5D%20%5BMLeIyy2ipps%5D.mp3"
+  },
+  {
+    "id": "350",
+    "title": "Shinedown - A Symptom Of Being Human",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/shindown/Shinedown%20-%20A%20Symptom%20Of%20Being%20Human%20(Official%20Video)%20%5BtmMOMK5c4EY%5D.mp3"
+  },
+  {
+    "id": "351",
+    "title": "Shinedown - ATTENTION ATTENTION",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/shindown/Shinedown%20-%20ATTENTION%20ATTENTION%20(Official%20Video)%20%5BAKkWblVAiJY%5D.mp3"
+  },
+  {
+    "id": "352",
+    "title": "Shinedown - Adrenaline",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/shindown/Shinedown%20-%20Adrenaline%20(Official%20Video)%20%5BZGhJKiMR4XY%5D.mp3"
+  },
+  {
+    "id": "353",
+    "title": "Shinedown - Bully",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/shindown/Shinedown%20-%20Bully%20(Official%20Video)%20%5BY7NVxAMQn_I%5D.mp3"
+  },
+  {
+    "id": "354",
+    "title": "Shinedown - Cut The Cord",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/shindown/Shinedown%20-%20Cut%20The%20Cord%20(Official%20Video)%20%5B9itwt_opsvQ%5D.mp3"
+  },
+  {
+    "id": "355",
+    "title": "Shinedown - DEVIL",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/shindown/Shinedown%20-%20DEVIL%20(Official%20Video)%20%5B_AsPY1bQx70%5D.mp3"
+  },
+  {
+    "id": "356",
+    "title": "Shinedown - Daylight Video",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/shindown/Shinedown%20-%20Daylight%20Video%20%5BoE5qvvhvORQ%5D.mp3"
+  },
+  {
+    "id": "357",
+    "title": "Shinedown - Dead Don't Die",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/shindown/Shinedown%20-%20Dead%20Don't%20Die%20(Official%20Video)%20%5BCScIXCl_u7U%5D.mp3"
+  },
+  {
+    "id": "358",
+    "title": "Shinedown - Devour",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/shindown/Shinedown%20-%20Devour%20(Official%20Video)%20%5B0QXNtLaOnSE%5D.mp3"
+  },
+  {
+    "id": "359",
+    "title": "Shinedown - Diamond Eyes",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/shindown/Shinedown%20-%20Diamond%20Eyes%20(Boom-Lay%20Boom-Lay%20Boom)%20%5BOfficial%20Video%5D%20%5Bhez6tDpiWDA%5D.mp3"
+  },
+  {
+    "id": "360",
+    "title": "Shinedown - Enemies",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/shindown/Shinedown%20-%20Enemies%20(Official%20Video)%20%5BOoHGZFyMCHU%5D.mp3"
+  },
+  {
+    "id": "361",
+    "title": "Shinedown - GET UP",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/shindown/Shinedown%20-%20GET%20UP%20(Piano%20Version)%20%5BOfficial%20Video%5D%20%5BhSXl8Q6yjDk%5D.mp3"
+  },
+  {
+    "id": "362",
+    "title": "Shinedown - I'll Follow You",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/shindown/Shinedown%20-%20I'll%20Follow%20You%20(Official%20Video)%20%5B2IF5TfnmV0k%5D.mp3"
+  },
+  {
+    "id": "363",
+    "title": "Shinedown - If You Only Knew",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/shindown/Shinedown%20-%20If%20You%20Only%20Knew%20(Official%20Video)%20%5BxY0HCKOmrW0%5D.mp3"
+  },
+  {
+    "id": "364",
+    "title": "Shinedown - Lady So Divine",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/shindown/Shinedown%20-%20Lady%20So%20Divine%20(Official%20Video)%20%5BZplUq1bGPCY%5D.mp3"
+  },
+  {
+    "id": "365",
+    "title": "Shinedown - MONSTERS",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/shindown/Shinedown%20-%20MONSTERS%20(Official%20Video)%20%5BJ6sIK2KnhH8%5D.mp3"
+  },
+  {
+    "id": "366",
+    "title": "Shinedown - Planet Zero",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/shindown/Shinedown%20-%20Planet%20Zero%20(Official%20Video)%20%5BIipnUpoW-58%5D.mp3"
+  },
+  {
+    "id": "367",
+    "title": "Shinedown - Save Me",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/shindown/Shinedown%20-%20Save%20Me%20(Official%20Video)%20%5BT8dyxGiBx3g%5D.mp3"
+  },
+  {
+    "id": "368",
+    "title": "Shinedown - Second Chance",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/shindown/Shinedown%20-%20Second%20Chance%20(Official%20Video)%20%5BHD%5D%20%5BWbsDPbr8qoM%5D.mp3"
+  },
+  {
+    "id": "369",
+    "title": "Shinedown - Simple Man",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/shindown/Shinedown%20-%20Simple%20Man%20(Official%20Video)%20%5BrgFQ6WmxdMs%5D.mp3"
+  },
+  {
+    "id": "370",
+    "title": "Shinedown - Sound Of Madness",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/shindown/Shinedown%20-%20Sound%20Of%20Madness%20(Official%20Video)%20%5BHD%5D%20%5BWGt-8adyabk%5D.mp3"
+  },
+  {
+    "id": "371",
+    "title": "Shinedown - State Of My Head",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/shindown/Shinedown%20-%20State%20Of%20My%20Head%20(Official%20Video)%20%5BKv0B-DLtMiM%5D.mp3"
+  },
+  {
+    "id": "372",
+    "title": "Shinedown - THE HUMAN RADIO",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/shindown/Shinedown%20-%20THE%20HUMAN%20RADIO%20(Official%20Video)%20%5BfMHfRqP0KSY%5D.mp3"
+  },
+  {
+    "id": "373",
+    "title": "Shinedown - The Crow & the Butterfly",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/shindown/Shinedown%20-%20The%20Crow%20%26%20the%20Butterfly%20(Official%20Video)%20%5B1B89Osfj8dg%5D.mp3"
+  },
+  {
+    "id": "374",
+    "title": "Shinedown - Through The Ghost",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/shindown/Shinedown%20-%20Through%20The%20Ghost%20(Official%20Video)%20%5BCNfYcPpgzgw%5D.mp3"
+  },
+  {
+    "id": "375",
+    "title": "Shinedown - Unity",
+    "artist": "Shinedown",
+    "album": "Shinedown",
+    "genre": "Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/shindown/Shinedown%20-%20Unity%20(Official%20Video)%20%5B_gVdi6sizeY%5D.mp3"
+  },
+  {
+    "id": "376",
+    "title": "01. Hyena Express - Shonar Bangla Circus",
+    "artist": "sonarbanglaCircus",
+    "album": "sonarbanglaCircus",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/sonarbanglaCircus/01.%20Hyena%20Express%20-%20Shonar%20Bangla%20Circus%20%5BrqAZ3Z9Nbf0%5D.webm"
+  },
+  {
+    "id": "377",
+    "title": "02. Mrittu Utpadon Karkhana - Shonar Bangla Circus",
+    "artist": "sonarbanglaCircus",
+    "album": "sonarbanglaCircus",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/sonarbanglaCircus/02.%20Mrittu%20Utpadon%20Karkhana%20-%20Shonar%20Bangla%20Circus%20%5B5mvzAPegnJc%5D.webm"
+  },
+  {
+    "id": "378",
+    "title": "03. Ondho Deyal - Shonar Bangla Circus",
+    "artist": "sonarbanglaCircus",
+    "album": "sonarbanglaCircus",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/sonarbanglaCircus/03.%20Ondho%20Deyal%20-%20Shonar%20Bangla%20Circus%20%5BqLIxRAfQTpY%5D.webm"
+  },
+  {
+    "id": "379",
+    "title": "04. Shurjer Ondhokar - Shonar Bangla Circus",
+    "artist": "sonarbanglaCircus",
+    "album": "sonarbanglaCircus",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/sonarbanglaCircus/04.%20Shurjer%20Ondhokar%20-%20Shonar%20Bangla%20Circus%20%5BY2J1W2_FqsA%5D.webm"
+  },
+  {
+    "id": "380",
+    "title": "05. Amar Naam Oshukh - Shonar Bangla Circus",
+    "artist": "sonarbanglaCircus",
+    "album": "sonarbanglaCircus",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/sonarbanglaCircus/05.%20Amar%20Naam%20Oshukh%20-%20Shonar%20Bangla%20Circus%20%5BWUY25vCXrpU%5D.webm"
+  },
+  {
+    "id": "381",
+    "title": "06. Kromosho - Shonar Bangla Circus",
+    "artist": "sonarbanglaCircus",
+    "album": "sonarbanglaCircus",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/sonarbanglaCircus/06.%20Kromosho%20-%20Shonar%20Bangla%20Circus%20%5BvyIOgtqVypQ%5D.webm"
+  },
+  {
+    "id": "382",
+    "title": "07. Perfumer Fele Deya Botol - Shonar Bangla Circus",
+    "artist": "sonarbanglaCircus",
+    "album": "sonarbanglaCircus",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/sonarbanglaCircus/07.%20Perfumer%20Fele%20Deya%20Botol%20-%20Shonar%20Bangla%20Circus%20%5B1jWjhQQN1pA%5D.webm"
+  },
+  {
+    "id": "383",
+    "title": "08. Attohottar Gaan - Shonar Bangla Circus",
+    "artist": "sonarbanglaCircus",
+    "album": "sonarbanglaCircus",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/sonarbanglaCircus/08.%20Attohottar%20Gaan%20-%20Shonar%20Bangla%20Circus%20%5BJpe45D3_KAM%5D.webm"
+  },
+  {
+    "id": "384",
+    "title": "09. Epitaph - Shonar Bangla Circus",
+    "artist": "sonarbanglaCircus",
+    "album": "sonarbanglaCircus",
+    "genre": "Unknown",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/sonarbanglaCircus/09.%20Epitaph%20-%20Shonar%20Bangla%20Circus%20%5B-ph4mykFp9I%5D.webm"
+  },
+  {
+    "id": "385",
+    "title": "Warfaze",
+    "artist": "Warfaze",
+    "album": "Warfaze",
+    "genre": "Bangla Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+    "audio": "/audio/warfaze/Warfaze%20-%20Purnota-uB2rhjulY4Q.mp3"
+  },
+  {
+    "id": "386",
+    "title": "Warfaze",
+    "artist": "Warfaze",
+    "album": "Warfaze",
+    "genre": "Bangla Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+    "audio": "/audio/warfaze/Warfaze-Agami-9ez69U5Gu_0.mp3"
+  },
+  {
+    "id": "387",
+    "title": "Warfaze-Boshe Achi",
+    "artist": "Warfaze",
+    "album": "Warfaze",
+    "genre": "Bangla Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+    "audio": "/audio/warfaze/Warfaze-Boshe%20Achi-lOLo2WokugA.mp3"
+  },
+  {
+    "id": "388",
+    "title": "Warfaze-Obak Bhalobasha-Qh",
+    "artist": "Warfaze",
+    "album": "Warfaze",
+    "genre": "Bangla Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+    "audio": "/audio/warfaze/Warfaze-Obak%20Bhalobasha-Qh_sxMN9UH8.mp3"
+  },
+  {
+    "id": "389",
+    "title": "Warfaze",
+    "artist": "Warfaze",
+    "album": "Warfaze",
+    "genre": "Bangla Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+    "audio": "/audio/warfaze/Warfaze-Projonmo-EtCceQVNglw.mp3"
+  },
+  {
+    "id": "390",
+    "title": "Warfaze",
+    "artist": "Warfaze",
+    "album": "Warfaze",
+    "genre": "Bangla Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+    "audio": "/audio/warfaze/Warfaze-Protikkha-sWCwOgzXeA8.mp3"
+  },
+  {
+    "id": "391",
+    "title": "Warfaze",
+    "artist": "Warfaze",
+    "album": "Warfaze",
+    "genre": "Bangla Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+    "audio": "/audio/warfaze/Warfaze-Rupkotha-CLUL2eO9o9w.mp3"
+  },
+  {
+    "id": "392",
+    "title": "Warfaze",
+    "artist": "Warfaze",
+    "album": "Warfaze",
+    "genre": "Bangla Rock",
+    "duration": 0,
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+    "audio": "/audio/warfaze/Warfaze-Tomake-Bx9shXiV-3g.mp3"
+  }
+];
+
+export const playlists = [
+  {
+    "id": "pl-1",
+    "title": "Bangla Essentials",
+    "description": "Top tracks from Bangla",
+    "songIds": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw"
+  },
+  {
+    "id": "pl-2",
+    "title": "Bullet For My Valentine Essentials",
+    "description": "Top tracks from Bullet For My Valentine",
+    "songIds": [
+      "16",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64"
+  },
+  {
+    "id": "pl-3",
+    "title": "Cigarettes After Sex Essentials",
+    "description": "Top tracks from Cigarettes After Sex",
+    "songIds": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45",
+      "46",
+      "47"
+    ],
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk"
+  },
+  {
+    "id": "pl-4",
+    "title": "Hollywood Essentials",
+    "description": "Top tracks from Hollywood",
+    "songIds": [
+      "57",
+      "58",
+      "59",
+      "60",
+      "61",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66"
+    ],
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw"
+  },
+  {
+    "id": "pl-5",
+    "title": "Scorpions Essentials",
+    "description": "Top tracks from Scorpions",
+    "songIds": [
+      "203",
+      "204",
+      "205",
+      "206",
+      "207",
+      "208",
+      "209",
+      "210",
+      "211",
+      "212"
+    ],
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo"
+  },
+  {
+    "id": "pl-6",
+    "title": "The Chainsmokers Essentials",
+    "description": "Top tracks from The Chainsmokers",
+    "songIds": [
+      "215",
+      "216",
+      "217",
+      "218",
+      "219",
+      "220",
+      "221",
+      "222"
+    ],
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0"
+  },
+  {
+    "id": "pl-7",
+    "title": "Aftermath Essentials",
+    "description": "Top tracks from Aftermath",
+    "songIds": [
+      "223",
+      "224",
+      "225",
+      "226"
+    ],
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0"
+  },
+  {
+    "id": "pl-8",
+    "title": "Bollywood Essentials",
+    "description": "Top tracks from Bollywood",
+    "songIds": [
+      "229",
+      "230",
+      "231",
+      "232",
+      "233",
+      "234",
+      "235",
+      "236",
+      "237",
+      "238"
+    ],
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w"
+  },
+  {
+    "id": "pl-9",
+    "title": "Green Day Essentials",
+    "description": "Top tracks from Green Day",
+    "songIds": [
+      "243",
+      "244",
+      "245",
+      "246",
+      "247",
+      "248",
+      "249",
+      "250",
+      "251",
+      "252"
+    ],
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo"
+  },
+  {
+    "id": "pl-10",
+    "title": "Metallica Essentials",
+    "description": "Top tracks from Metallica",
+    "songIds": [
+      "254",
+      "255",
+      "256"
+    ],
+    "cover": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk"
+  }
+];
+
+export const moods = ["Bangla","Metal","Dream Pop","Pop"];
+
+export const genres = [
+  {
+    "id": "g-1",
+    "name": "Bangla",
+    "color": "from-primary/30",
+    "count": "15 tracks"
+  },
+  {
+    "id": "g-2",
+    "name": "Metal",
+    "color": "from-primary/40",
+    "count": "25 tracks"
+  },
+  {
+    "id": "g-3",
+    "name": "Dream Pop",
+    "color": "from-primary/50",
+    "count": "19 tracks"
+  },
+  {
+    "id": "g-4",
+    "name": "Pop",
+    "color": "from-primary/60",
+    "count": "176 tracks"
+  },
+  {
+    "id": "g-5",
+    "name": "Unknown",
+    "color": "from-primary/70",
+    "count": "21 tracks"
+  },
+  {
+    "id": "g-6",
+    "name": "Electronic",
+    "color": "from-primary/80",
+    "count": "8 tracks"
+  },
+  {
+    "id": "g-7",
+    "name": "Rock",
+    "color": "from-primary/30",
+    "count": "68 tracks"
+  },
+  {
+    "id": "g-8",
+    "name": "Soft Rock",
+    "color": "from-primary/40",
+    "count": "2 tracks"
+  },
+  {
+    "id": "g-9",
+    "name": "Bollywood",
+    "color": "from-primary/50",
+    "count": "14 tracks"
+  },
+  {
+    "id": "g-10",
+    "name": "Punk Rock",
+    "color": "from-primary/60",
+    "count": "11 tracks"
+  },
+  {
+    "id": "g-11",
+    "name": "Classic Rock",
+    "color": "from-primary/70",
+    "count": "15 tracks"
+  },
+  {
+    "id": "g-12",
+    "name": "Novelty",
+    "color": "from-primary/80",
+    "count": "10 tracks"
+  },
+  {
+    "id": "g-13",
+    "name": "Bangla Rock",
+    "color": "from-primary/30",
+    "count": "8 tracks"
+  }
+];
+
+export const genreImages = {
+  "Bangla": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+  "Metal": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+  "Dream Pop": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+  "Pop": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+  "Unknown": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w",
+  "Electronic": "https://lh3.googleusercontent.com/aida-public/AB6AXuDqIFwGPdj1LMG2hta3wHALsgfQ03wqSNMeARet7LuOTHFrxMjoHLNwHSx0Y9WhPwOGQRWPVz6DIXYCdTuebUoxIobCarXG-8Z_X-oXuzvA-JRcjSPcnY4mGlXjYBx9oLa8EvrU2Ie9kq3VM_iaoh-91l4drVFOxaBRR4QDTdVKyM5nFAFoSofgIB9HJFyHcG6wmWVZVy1DDashvn6xDeiUkqqaUpMMlmYCRlMFFXPmPuLauOifU2LlgJjAHR_fo9q-oDMpQXjagmk",
+  "Rock": "https://lh3.googleusercontent.com/aida-public/AB6AXuCNoAiXT8m0kLp81iAUppUSHkdrctygTDrZNd3gFkE9lb4lDUkiiPzSL2V2hAKZz_3vT-HscY5MKX5auv4zmKQemV4wIqBUFOUQV3FST6JMmoUXLXRAf1xSl-lYZv9pl9KJV03mKtRXQQdqKINvj2x6j_kQzm0utiEswRgwsWToimIhpMyYFbXj-8TXQ_hCsu2w66CcRMW5GmpTMnkhNfrYzWfof_6UXCfzlXUrCJaTTwUpUkHUJ39bUuVuhLNvfZl3TM0lOMzi0C0",
+  "Soft Rock": "https://lh3.googleusercontent.com/aida-public/AB6AXuBmCy2QBuQOudRbU_BFGeZzt1dxJVATPUjfyGf-8nWnzq1EGqKfjufRJqCBWlDtKItwdj3r5Zcc509RMZFqhATaX3t7RRFne_wZII0uqBqbYDSABgRTCN7QVNOvldwAYH0A29caEdv8uySsqtAkKln4wb3YyxOGvdlCyAuMEkORfXDsAxrynn-3ZHZj5nzAPPR5wE1iogtk1QOQncNhHzuEMWtBx8jE9vr6KYsFaUBRjV3CFBaKgEntjTq9msiSl0739CI6SRILx64",
+  "Bollywood": "https://lh3.googleusercontent.com/aida-public/AB6AXuCd3lPdrOMNdtjMp-TwR3weG_IA230DDrNDtyaMJw60mNQbWqHphQYZJ43RriGlSLtFPIyZs7Q5n9fNMh7QCGtNw75S2Q2rFRB7aToi9KpxLqcPsax0xhRe4aIaXYDeHdV6OTSS3Am1ZkTYSYt2pfjKacV2275EQvt0uZtEn-jXkGuVVOKWpRbJ9TQJsCAKP5urkMeCLdZjMLQPAlL76U6f5JzO2UstZzmTT24RlUeLQ75QAds3Mmv8-OPwPwCIHV90qRYZAqHrgrw",
+  "Punk Rock": "https://lh3.googleusercontent.com/aida-public/AB6AXuCU8djDOFnGovOENcPWDlS3_AkG2lRbhQg6MF0u5hWzfe-tuWpNXBRWQTJkQ1SAUDeK0qgcqVpyDyghAi2DdFyVVYk5AcE7LHt8ct5hdDElM-4a9JesxfI1Amy2IKnGzLfJaCbgqvdgbAq9lBZc7J8MwuMtfFW5Eu--jejqdAAqfq9VuBZT3o6oaJE7QdIdBfpCYCjY1imQVTGBtVl4pZYsE1OryE7jgq1VUnd-g2JFwr-mqiAZjNDYpkd2HaNN9Ai-HFoFqKl2B6A",
+  "Classic Rock": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBjTjWReNWhRB867M5iEKf7YxpmfJngdK3MrSH7ARGENnLxVSimE6zLMSk1URiW7p99Ba6ITDuOI9XrSV8X6IDbtsppC_7ayoH4FAaTiTloGZkJN3nl9oOWn-9luOWpelyRxqHkZpmkzaaeJNvsjfK-XUFHkuw6ODM_3VfAnCCwbhBTO7GDoan6WSH_9DzFLW6uTwzQ2W2rqujC725BtDUXySRDRUgh37_3S99Cx8HA1R6xYbM5yiseuoOjNGGQOUDIa8wPpeRxpo",
+  "Novelty": "https://lh3.googleusercontent.com/aida-public/AB6AXuDkJxNVgXT-kpSa4PeeadMcNhmkMEqp4iVglVNKg2zoy8k2U3d-Vx28FWbq5zqOjn4A082hBh0f9fI4kk_UT67KppGJFZdpjQriCmTxFbVbP7n91JD2h03Jzjth22tz9OOKwPa6EUq4WbzRk8b_X9ZU8hSrIH8w4MpguWva-k9fnHuXQEceDWgFvtzmRwBF-1DUWjamJTRZ04qAuey-_TN7MYfz_T1fWQiwYIbUm7d5ScnHFZrgPLQYwlLmarIUWbKh24RgBmWKOmk",
+  "Bangla Rock": "https://lh3.googleusercontent.com/aida-public/AB6AXuBorYU84aUXIzwPCX0_c7fFP9_LClBSmqzOTk5hDKtSYsc5_kvQJFIix5IebPqM2KJ4-ufiOcycNEDACCQY5c6Feaa4PwXtLaMgyGT0AQDcTpKSQ5rwdK5vq-bsNfHNDvFxmkqHv8hYGrZjuU7DN_14gvyiGIVqwuAREJwsmRsbh5cW4pB2j_gMVoJ2Y2hGivCdK4PayNboAPa_QNnEejBXCqMrG298oOvD546KpHqkh8LcH039-Fq6ePrG5FD6Cso_QLMwmPaWb6w"
+};
+
+export const trendingTags = ["#Bangla","#NewReleases","#Throwback","#LiveSession"];
