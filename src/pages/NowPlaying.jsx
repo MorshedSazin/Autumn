@@ -1,5 +1,6 @@
 import { useRef, useEffect, useState, useMemo, useCallback } from "react";
 import { usePlayer } from "../context/PlayerContext";
+import { useSliderDrag } from "../hooks/useSliderDrag";
 import { songs } from "../data/songs";
 
 
@@ -154,7 +155,7 @@ function LyricsPanel({ currentTime, duration, lyrics, status, onSaveLyrics }) {
   };
 
   return (
-    <div className="min-w-0 max-w-xl flex flex-col h-[520px]">
+    <div className="min-w-0 max-w-xl w-full flex flex-col h-[420px] lg:h-[520px]">
       <h3 className="font-headline-md text-on-surface mb-6 shrink-0">Lyrics</h3>
       <div className="flex-1 min-h-0">
         {status === "loading" ? (
@@ -246,6 +247,9 @@ export default function NowPlaying() {
   const { lyrics, status, saveUserLyrics } = useLyrics(currentSong?.artist, currentSong?.title);
   const [searchQuery, setSearchQuery] = useState("");
 
+  const onSeekDrag = useSliderDrag((pct) => seek(pct * duration));
+  const onVolumeDrag = useSliderDrag(setVolume);
+
   const searchResults = searchQuery.trim()
     ? songs.filter((s) =>
         [s.title, s.artist, s.album].some((field) =>
@@ -268,17 +272,10 @@ export default function NowPlaying() {
 
   const progress = duration > 0 ? (currentTime / duration) * 100 : 0;
 
-  const handleProgressClick = (e) => {
-    const rect = e.currentTarget.getBoundingClientRect();
-    const x = e.clientX - rect.left;
-    const pct = x / rect.width;
-    seek(pct * duration);
-  };
-
   return (
-    <div className="flex gap-16 items-center justify-center flex-1">
+    <div className="flex-1 min-h-0 flex flex-col lg:flex-row gap-10 lg:gap-16 items-center lg:justify-center py-4">
       <div className="w-full max-w-md text-center shrink-0">
-        <div className="w-64 h-64 mx-auto mb-8 rounded-2xl overflow-hidden shadow-[0_0_40px_rgba(187,134,252,0.3)]">
+        <div className="w-44 h-44 sm:w-56 sm:h-56 lg:w-64 lg:h-64 mx-auto mb-6 lg:mb-8 rounded-2xl overflow-hidden shadow-[0_0_40px_rgba(187,134,252,0.3)]">
           <img className="w-full h-full object-cover" src={currentSong.cover} alt={currentSong.title} />
         </div>
 
@@ -287,8 +284,8 @@ export default function NowPlaying() {
 
         <div className="w-full mb-6">
           <div
-            className="w-full h-2 bg-white/10 rounded-full overflow-hidden cursor-pointer group relative"
-            onClick={handleProgressClick}
+            className="w-full h-2 bg-white/10 rounded-full overflow-hidden cursor-pointer group relative touch-none"
+            onMouseDown={onSeekDrag}
           >
             <div
               className="absolute top-0 left-0 h-full rounded-full"
@@ -341,14 +338,17 @@ export default function NowPlaying() {
         <div className="flex items-center justify-center gap-4">
           <span className="material-symbols-outlined text-on-surface-variant">volume_down</span>
           <div
-            className="w-40 h-1.5 bg-white/10 rounded-full overflow-hidden cursor-pointer relative"
-            onClick={(e) => {
-              const rect = e.currentTarget.getBoundingClientRect();
-              const x = e.clientX - rect.left;
-              setVolume(Math.min(1, Math.max(0, x / rect.width)));
-            }}
+            className="w-40 h-1.5 bg-white/10 rounded-full overflow-hidden cursor-pointer relative group touch-none"
+            onMouseDown={onVolumeDrag}
           >
-            <div className="h-full bg-secondary transition-colors" style={{ width: `${volume * 100}%` }} />
+            <div
+              className="h-full bg-secondary rounded-full"
+              style={{ width: `${volume * 100}%` }}
+            />
+            <div
+              className="absolute top-1/2 -translate-y-1/2 w-4 h-4 bg-secondary rounded-full shadow-lg opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none"
+              style={{ left: `calc(${volume * 100}% - 8px)` }}
+            />
           </div>
           <span className="material-symbols-outlined text-on-surface-variant">volume_up</span>
         </div>
@@ -363,9 +363,9 @@ export default function NowPlaying() {
       />
 
       {queue.length > 1 && (
-        <div className="w-full max-w-sm shrink-0 flex flex-col">
+        <div className="w-full max-w-sm lg:w-auto shrink-0 flex flex-col">
           <h3 className="font-headline-md text-on-surface mb-4">Up Next</h3>
-          <div className="bg-surface-container-low rounded-xl p-4 flex flex-col max-h-[520px]">
+          <div className="bg-surface-container-low rounded-xl p-4 flex flex-col max-h-[320px] lg:max-h-[520px]">
             <div className="relative mb-3 shrink-0">
               <span className="material-symbols-outlined absolute left-3 top-1/2 -translate-y-1/2 text-on-surface-variant/50 text-lg">
                 search

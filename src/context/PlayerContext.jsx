@@ -15,6 +15,8 @@ export function PlayerProvider({ children }) {
   const [shuffle, setShuffle] = useState(false);
   const [repeat, setRepeat] = useState("off");
 
+  const handleNextRef = useRef(null);
+
   useEffect(() => {
     if (!audioRef.current) {
       audioRef.current = new Audio();
@@ -22,7 +24,15 @@ export function PlayerProvider({ children }) {
     const audio = audioRef.current;
     const onTimeUpdate = () => setCurrentTime(audio.currentTime);
     const onLoadedMetadata = () => setDuration(audio.duration);
-    const onEnded = handleNext;
+    const onEnded = () => {
+      if (repeat === "one") {
+        audio.currentTime = 0;
+        audio.play().catch(() => {});
+        setCurrentTime(0);
+      } else {
+        handleNextRef.current();
+      }
+    };
     const onError = () => {
       if (currentSong) {
         setIsPlaying(false);
@@ -38,7 +48,7 @@ export function PlayerProvider({ children }) {
       audio.removeEventListener("ended", onEnded);
       audio.removeEventListener("error", onError);
     };
-  }, [currentSong]);
+  }, [currentSong, repeat]);
 
   useEffect(() => {
     if (audioRef.current) audioRef.current.volume = volume;
@@ -76,13 +86,14 @@ export function PlayerProvider({ children }) {
       nextIndex = queueIndex + 1;
       if (nextIndex >= queue.length) {
         if (repeat === "all") nextIndex = 0;
-        else if (repeat === "one") nextIndex = queueIndex;
         else return;
       }
     }
     const nextSong = queue[nextIndex];
     playSong(nextSong, queue, nextIndex);
   }, [queue, queueIndex, shuffle, repeat, playSong]);
+
+  handleNextRef.current = handleNext;
 
   const handlePrev = useCallback(() => {
     if (queue.length === 0) return;
@@ -132,7 +143,7 @@ export function PlayerProvider({ children }) {
     queueIndex,
     setVolume,
     setShuffle: () => setShuffle((s) => !s),
-    setRepeat: () => setRepeat((r) => (r === "off" ? "all" : r === "all" ? "one" : "off")),
+    setRepeat: () => setRepeat((r) => (r === "off" ? "one" : r === "one" ? "all" : "off")),
     playSong,
     togglePlay,
     handleNext,

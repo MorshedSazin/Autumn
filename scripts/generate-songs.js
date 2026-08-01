@@ -135,7 +135,7 @@ const playlists = dirs
     const artist = ARTIST_NAME_MAP[dir.toLowerCase()] || dir;
     const dirPath = join(AUDIO_DIR, dir);
     const files = readdirSync(dirPath).filter(isAudioFile).sort();
-    const songIds = files.slice(0, 10).map((_, j) => {
+    const songIds = files.map((_, j) => {
       const globalIdx = songs.findIndex(s => s.artist === artist);
       return String(globalIdx + 1 + j);
     });

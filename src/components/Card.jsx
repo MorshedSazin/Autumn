@@ -72,7 +72,7 @@ export default function Card({ song, songs, variant = "small" }) {
         </div>
         <button
           onClick={handleAddToQueue}
-          className="text-on-surface-variant hover:text-secondary transition-colors ml-2 shrink-0 opacity-0 group-hover:opacity-100 cursor-pointer"
+          className="text-on-surface-variant hover:text-secondary transition-colors ml-2 shrink-0 opacity-100 lg:opacity-0 lg:group-hover:opacity-100 cursor-pointer"
           title="Add to queue"
         >
           <span className="material-symbols-outlined text-lg">playlist_add</span>

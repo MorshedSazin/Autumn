@@ -5,9 +5,9 @@ const links = [
   { to: "/now-playing", icon: "equalizer", label: "Now Playing" },
 ];
 
-export default function Sidebar() {
+export default function Sidebar({ onNavigate, className = "" }) {
   return (
-    <aside className="h-screen w-64 fixed left-0 top-0 bg-surface border-r border-white/5 flex flex-col py-8 px-4 space-y-6 z-40">
+    <aside className={`h-screen w-64 fixed left-0 top-0 bg-surface border-r border-white/5 flex flex-col py-8 px-4 space-y-6 z-40 ${className}`}>
       <div className="px-4 mb-8">
         <h1 className="font-display-lg text-[28px] leading-8 text-primary tracking-tighter font-bold">Autumn</h1>
         <p className="font-label-md text-on-surface-variant/60">Electric Audio</p>
@@ -17,6 +17,7 @@ export default function Sidebar() {
           <NavLink
             key={link.to}
             to={link.to}
+            onClick={onNavigate}
             className={({ isActive }) =>
               `flex items-center gap-4 px-4 py-3 rounded-lg transition-all duration-200 ${
                 isActive
