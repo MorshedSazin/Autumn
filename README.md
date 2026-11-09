@@ -5,8 +5,12 @@ This template provides a minimal setup to get React working in Vite with HMR and
 =======
 # Autumn — Electric Audio
 
+<<<<<<< HEAD
 A dark-themed, client-side music player built with React and Vite. Autumn streams a bundled catalog of 266 tracks across 9 genres, and lets you upload your own audio and build playlists that survive page reloads.
 >>>>>>> c465049 (documentation)
+=======
+A client-side music player built with React and Vite. Autumn streams and lets you upload your own audio and build playlists that survive page reloads.
+>>>>>>> 3a95ecc (documentation)
 
 **Live demo:** [https://autumn-one.vercel.app](https://autumn-one.vercel.app)
 
@@ -53,26 +57,6 @@ A dark-themed, client-side music player built with React and Vite. Autumn stream
 - `oxlint` — fast Rust-based linter
 - `@types/react`, `@types/react-dom` — editor IntelliSense only (the app is still plain JS)
 
----
-
-## Getting Started
-
-```bash
-# install dependencies
-npm install
-
-# start the dev server (http://localhost:5173)
-npm run dev
-
-# production build → dist/
-npm run build
-
-# preview the production build
-npm run preview
-
-# lint
-npm run lint
-```
 
 ### Regenerating the song catalog
 
